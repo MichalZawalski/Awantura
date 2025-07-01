@@ -60,6 +60,7 @@ W konsoli bash, wykonaj następujące polecenia:
 git clone <repo>
 cd Awantura
 chmod +x setup.sh
+./setup.sh
 ```
 A następnie, aby uruchomić:
 ```
