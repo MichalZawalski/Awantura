@@ -1,0 +1,107 @@
+<questions>
+    <q>
+        <txt>W którym roku zorganizowano pierwszy pokaz mody w historii, przypisywany projektantowi Charlesowi
+            Frederickowi Worthowi?
+        </txt>
+        <ans>1858</ans>
+        <prop>1865, 1880, 1835</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się znany dom mody założony w 1913 roku w Mediolanie przez Mario Pradę?</txt>
+        <ans>Prada</ans>
+        <prop>Gucci, Versace, Armani</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się ikona mody i projektantka, która stworzyła małą czarną sukienkę?</txt>
+        <ans>Coco Chanel</ans>
+        <prop>Elsa Schiaparelli, Christian Dior, Yves Saint Laurent</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się tkanina pochodząca z Indii, używana w produkcji dżinsów?</txt>
+        <ans>Denim</ans>
+        <prop>Len, Bawełna, Jedwab</prop>
+    </q>
+    <q>
+        <txt>Jaki francuski projektant mody jest autorem słynnego perfum Chanel No. 5?</txt>
+        <ans>Coco Chanel</ans>
+        <prop>Christian Dior, Jean Paul Gaultier, Hubert de Givenchy</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się popularny styl mody inspirowany ubiorami marynarskimi?</txt>
+        <ans>Styl marynarski</ans>
+        <prop>Preppy, Glamour, Casual</prop>
+    </q>
+    <q>
+        <txt>Jakie buty spopularyzował Christian Louboutin, wyróżniające się charakterystyczną czerwoną podeszwą?</txt>
+        <ans>Szpilki</ans>
+        <prop>Mokasyny, Botki, Trampki</prop>
+    </q>
+    <q>
+        <txt>Co symbolizuje biała suknia w tradycyjnej modzie ślubnej?</txt>
+        <ans>Czystość i niewinność</ans>
+        <prop>Długowieczność, Miłość, Dobrobyt</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się proces barwienia tkanin poprzez zanurzanie ich w farbie w wiązanych miejscach?</txt>
+        <ans>Tie-dye</ans>
+        <prop>Patchwork, Ombre, Sublimacja</prop>
+    </q>
+    <q>
+        <txt>Jaki kraj jest znany jako kolebka haute couture?</txt>
+        <ans>Francja</ans>
+        <prop>Włochy, Hiszpania, Anglia</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem rewolucyjnej kolekcji „New Look” z 1947 roku?</txt>
+        <ans>Christian Dior</ans>
+        <prop>Yves Saint Laurent, Balenciaga, Coco Chanel</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się materiał wytwarzany z włókien kokonów jedwabników?</txt>
+        <ans>Jedwab</ans>
+        <prop>Wełna, Len, Bawełna</prop>
+    </q>
+    <q>
+        <txt>W jakiej dekadzie modne stały się spodnie dzwony?</txt>
+        <ans>W latach 70.</ans>
+        <prop>W latach 60., W latach 80., W latach 90.</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się akcesorium, które w epoce wiktoriańskiej było noszone wokół szyi i służyło jako ozdoba?
+        </txt>
+        <ans>Choker</ans>
+        <prop>Szal, Apaszka, Kolia</prop>
+    </q>
+    <q>
+        <txt>Kto jest twórcą marki Louis Vuitton?</txt>
+        <ans>Louis Vuitton</ans>
+        <prop>Guccio Gucci, Mario Prada, Hubert de Givenchy</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się tkanina, która charakteryzuje się prążkowaną strukturą, używana m.in. do garniturów?</txt>
+        <ans>Welur</ans>
+        <prop>Sztruks, Tweed, Tafta</prop>
+    </q>
+    <q>
+        <txt>Jakie buty zostały zaprojektowane z myślą o ochronie nóg przed wodą i błotem podczas jazdy konnej?</txt>
+        <ans>Kalosze</ans>
+        <prop>Botki, Trzewiki, Sandały</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się słynny pokaz mody odbywający się co roku w Nowym Jorku, który wspiera działalność
+            Metropolitan Museum of Art?
+        </txt>
+        <ans>Met Gala</ans>
+        <prop>New York Fashion Week, Paryski Tydzień Mody, Costume Institute Gala</prop>
+    </q>
+    <q>
+        <txt>Jakie nakrycie głowy było charakterystyczne dla flapperów w latach 20. XX wieku?</txt>
+        <ans>Kapelusz cloche</ans>
+        <prop>Fascynator, Beret, Turban</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się marka, która zasłynęła swoim charakterystycznym szkockim wzorem?</txt>
+        <ans>Burberry</ans>
+        <prop>Hermès, Dior, Chanel</prop>
+    </q>
+</questions>

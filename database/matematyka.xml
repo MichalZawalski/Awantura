@@ -1,0 +1,123 @@
+<questions>
+    <q>
+        <txt>Jaka jest najmniejsza liczba pierwsza, która jest sumą dwóch kolejnych liczb pierwszych?</txt>
+        <ans>5</ans>
+        <prop>7, 11, 13</prop>
+    </q>
+
+    <q>
+        <txt>Jeżeli macierz \( A \) jest ortogonalna, to jaka jest wartość wyznacznika \( \det(A) \)?</txt>
+        <ans>\(\pm1\)</ans>
+        <prop>0, 1, -1</prop>
+    </q>
+
+    <q>
+        <txt>Jaka jest suma kątów wewnętrznych siedmiokąta foremnego?</txt>
+        <ans>900°</ans>
+        <prop>720°, 1080°, 1260°</prop>
+    </q>
+
+    <q>
+        <txt>Jak nazywa się największa znana liczba pierwsza (stan na 2024 rok)?</txt>
+        <ans>2⁸²⁵⁸⁹⁹³³−1</ans>
+        <prop>2⁷⁷²³²⁹¹⁷−1, 2⁶⁴⁸⁷⁹⁴⁷−1, 2⁹⁰⁷⁶⁹⁷⁷−1</prop>
+    </q>
+
+    <q>
+        <txt>Ile wierzchołków ma wielościan foremny zwany dwudziestościanem?</txt>
+        <ans>12</ans>
+        <prop>8, 20, 30</prop>
+    </q>
+
+    <q>
+        <txt>Jaki jest rozwój dziesiętny liczby \( \frac{1}{7} \)?</txt>
+        <ans>0,142857...</ans>
+        <prop>0,16666..., 0,125, 0,101010...</prop>
+    </q>
+
+    <q>
+        <txt>Jaka jest liczba przekątnych w dziesięciokącie wypukłym?</txt>
+        <ans>35</ans>
+        <prop>40, 45, 50</prop>
+    </q>
+
+    <q>
+        <txt>Jaka jest największa liczba całkowita, która dzieli każdą liczbę z ciągu Fibonacciego?</txt>
+        <ans>1</ans>
+        <prop>2, 3, 5</prop>
+    </q>
+
+    <q>
+        <txt>Jaką miarę w radianach ma kąt o mierze 72°?</txt>
+        <ans>\(\frac{2\pi}{5}\)</ans>
+        <prop>\(\frac{\pi}{3}\), \(\frac{3\pi}{5}\), \(\frac{5\pi}{6}\)</prop>
+    </q>
+
+    <q>
+        <txt>Ile jest funkcji różnowartościowych z 5-elementowego zbioru w 7-elementowy zbiór?</txt>
+        <ans>2520</ans>
+        <prop>120, 5040, 720</prop>
+    </q>
+
+    <q>
+        <txt>Jaka jest granica ciągu \( a_n = \frac{n^2 + n}{n^2 + 2n + 1} \) przy \( n \to \infty \)?</txt>
+        <ans>1</ans>
+        <prop>0, 2, \(\frac{1}{2}\)</prop>
+    </q>
+
+    <q>
+        <txt>Jakie jest największe pole prostokąta o obwodzie 20?</txt>
+        <ans>25</ans>
+        <prop>20, 30, 40</prop>
+    </q>
+
+    <q>
+        <txt>Jaki jest środek masy trójkąta o wierzchołkach (0,0), (2,0), (0,2)?</txt>
+        <ans>\((\frac{2}{3}, \frac{2}{3})\)</ans>
+        <prop>\((1,1)\), \((\frac{1}{2}, \frac{1}{2})\), \((\frac{3}{4}, \frac{3}{4})\)</prop>
+    </q>
+
+    <q>
+        <txt>Jaka jest liczba dzielników liczby 120?</txt>
+        <ans>16</ans>
+        <prop>12, 18, 20</prop>
+    </q>
+
+    <q>
+        <txt>Jakie są pierwiastki wielomianu \( x^3 - 3x + 2 \)?</txt>
+        <ans>\( x = -1, x = 1, x = 2 \)</ans>
+        <prop>\( x = -2, x = 0, x = 3 \)</prop>
+    </q>
+
+    <q>
+        <txt>Jakie jest prawdopodobieństwo wylosowania dwóch asów z talii 52 kart?</txt>
+        <ans>\(\frac{1}{221}\)</ans>
+        <prop>\(\frac{1}{100}\), \(\frac{1}{260}\), \(\frac{1}{200}\)</prop>
+    </q>
+
+    <q>
+        <txt>Jaka jest całka nieoznaczona funkcji \( e^x \)?</txt>
+        <ans>\( e^x + C \)</ans>
+        <prop>\( xe^x + C \), \( e^x - 1 + C \), \( e^x + x + C \)</prop>
+    </q>
+
+    <q>
+        <txt>Jaki jest najmniejszy dodatni okres funkcji \( f(x) = \sin(3x) \)?</txt>
+        <ans>\(\frac{2\pi}{3}\)</ans>
+        <prop>\(\pi\), \(\frac{\pi}{3}\), \(2\pi\)</prop>
+    </q>
+
+    <q>
+        <txt>Jaką wartość ma suma szeregu geometrycznego \( 3 + 6 + 12 + 24 + ... \) przy nieskończonej liczbie
+            wyrazów?
+        </txt>
+        <ans>Nieskończoność</ans>
+        <prop>48, 96, 192</prop>
+    </q>
+
+    <q>
+        <txt>Jaka jest liczba różnych permutacji liter w słowie "MATEMATYKA"?</txt>
+        <ans>90720</ans>
+        <prop>45360, 181440, 5040</prop>
+    </q>
+</questions>

@@ -1,0 +1,104 @@
+<questions>
+    <q>
+        <txt>Kto jest autorem powieści "Chłopi", za którą otrzymał Nagrodę Nobla w dziedzinie literatury?</txt>
+        <ans>Władysław Reymont</ans>
+        <prop>Henryk Sienkiewicz, Stefan Żeromski, Bolesław Prus</prop>
+    </q>
+    <q>
+        <txt>W jakim stylu napisany jest "Pan Tadeusz" Adama Mickiewicza?</txt>
+        <ans>Epickim</ans>
+        <prop>Lirycznym, Dramatycznym, Satyrycznym</prop>
+    </q>
+    <q>
+        <txt>Który gatunek literacki charakteryzuje się fabułą opartą na wydarzeniach niezgodnych z
+            prawdopodobieństwem?
+        </txt>
+        <ans>Fantasy</ans>
+        <prop>Science fiction, Horror, Realizm magiczny</prop>
+    </q>
+    <q>
+        <txt>Kto napisał powieść "Wiedźmin", która stała się podstawą popularnej serii gier komputerowych?</txt>
+        <ans>Andrzej Sapkowski</ans>
+        <prop>Jacek Dukaj, Stanisław Lem, Witold Gombrowicz</prop>
+    </q>
+    <q>
+        <txt>W którym roku ukazała się powieść "Quo Vadis" Henryka Sienkiewicza?</txt>
+        <ans>1896</ans>
+        <prop>1886, 1906, 1876</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem dramatu "Wesele"?</txt>
+        <ans>Stanisław Wyspiański</ans>
+        <prop>Adam Mickiewicz, Juliusz Słowacki, Zygmunt Krasiński</prop>
+    </q>
+    <q>
+        <txt>Który pisarz jest twórcą powieści "Mistrz i Małgorzata"?</txt>
+        <ans>Michaił Bułhakow</ans>
+        <prop>Fiodor Dostojewski, Lew Tołstoj, Anton Czechow</prop>
+    </q>
+    <q>
+        <txt>Jaki kierunek literacki reprezentuje powieść "Lalka" Bolesława Prusa?</txt>
+        <ans>Realizm</ans>
+        <prop>Romantyzm, Modernizm, Naturalizm</prop>
+    </q>
+    <q>
+        <txt>Który poeta jest autorem wiersza "Żurawie"?</txt>
+        <ans>Julian Tuwim</ans>
+        <prop>Jan Kochanowski, Konstanty Ildefons Gałczyński, Wisława Szymborska</prop>
+    </q>
+    <q>
+        <txt>Kto napisał powieść "Solaris"?</txt>
+        <ans>Stanisław Lem</ans>
+        <prop>Jacek Dukaj, Andrzej Sapkowski, Rafał Kosik</prop>
+    </q>
+    <q>
+        <txt>W jakim roku ukazała się pierwsza część "Pana Tadeusza"?</txt>
+        <ans>1834</ans>
+        <prop>1824, 1844, 1854</prop>
+    </q>
+    <q>
+        <txt>Który polski noblista jest autorem "Dżumy"?</txt>
+        <ans>Albert Camus</ans>
+        <prop>Czesław Miłosz, Wisława Szymborska, Henryk Sienkiewicz</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem powieści "Proces"?</txt>
+        <ans>Franz Kafka</ans>
+        <prop>Jorge Luis Borges, Gabriel García Márquez, Milan Kundera</prop>
+    </q>
+    <q>
+        <txt>Który poeta jest patronem nagrody literackiej Nike?</txt>
+        <ans>Wisława Szymborska</ans>
+        <prop>Czesław Miłosz, Zbigniew Herbert, Julian Tuwim</prop>
+    </q>
+    <q>
+        <txt>W jakim języku napisano oryginał powieści "Imię róży"?</txt>
+        <ans>Włoskim</ans>
+        <prop>Łacińskim, Angielskim, Niemieckim</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem powieści "Rok 1984"?</txt>
+        <ans>George Orwell</ans>
+        <prop>Aldous Huxley, Ray Bradbury, Isaac Asimov</prop>
+    </q>
+    <q>
+        <txt>Który poeta jest autorem zbioru "Różewicz bez cenzury"?</txt>
+        <ans>Tadeusz Różewicz</ans>
+        <prop>Czesław Miłosz, Wisława Szymborska, Zbigniew Herbert</prop>
+    </q>
+    <q>
+        <txt>W którym roku James Joyce opublikował powieść "Ulisses"?</txt>
+        <ans>1922</ans>
+        <prop>1912, 1932, 1942</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem powieści "Złote jabłka słońca"?</txt>
+        <ans>Ray Bradbury</ans>
+        <prop>Isaac Asimov, Arthur C. Clarke, Philip K. Dick</prop>
+    </q>
+    <q>
+        <txt>Który pisarz jest autorem trylogii fantasy "Władca Pierścieni"?</txt>
+        <ans>J.R.R. Tolkien</ans>
+        <prop>C.S. Lewis, Terry Pratchett, George R.R. Martin</prop>
+    </q>
+</questions>

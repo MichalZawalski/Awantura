@@ -1,0 +1,117 @@
+<questions>
+    <q>
+        <txt>Jaka jest pierwsza zasada dynamiki Newtona?</txt>
+        <ans>Ciało pozostaje w spoczynku lub porusza się ruchem jednostajnym prostoliniowym, jeśli siły działające na
+            nie są zrównoważone.
+        </ans>
+        <prop>Ciało przyspiesza pod wpływem siły, Ciało zmienia prędkość pod wpływem siły oporu, Ciało porusza się
+            ruchem harmonicznym.
+        </prop>
+    </q>
+    <q>
+        <txt>Co to jest entropia w układzie termodynamicznym?</txt>
+        <ans>Miara nieuporządkowania układu.</ans>
+        <prop>Miara energii kinetycznej, Miara temperatury, Miara liczby cząstek.</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się siła odpowiedzialna za przyciąganie między ładunkami elektrycznymi?</txt>
+        <ans>Siła elektrostatyczna.</ans>
+        <prop>Siła magnetyczna, Siła jądrowa, Siła sprężystości.</prop>
+    </q>
+    <q>
+        <txt>Co powoduje rozszczepienie światła w pryzmacie?</txt>
+        <ans>Różne współczynniki załamania światła dla różnych długości fal.</ans>
+        <prop>Odbicie światła, Całkowite wewnętrzne odbicie, Dyfrakcja światła.</prop>
+    </q>
+    <q>
+        <txt>Jakie cząstki elementarne budują jądro atomu?</txt>
+        <ans>Protony i neutrony.</ans>
+        <prop>Elektrony i neutrony, Protony i elektrony, Kwarki i mezony.</prop>
+    </q>
+    <q>
+        <txt>Jakie jest znaczenie zasady nieoznaczoności Heisenberga?</txt>
+        <ans>Nie można jednocześnie dokładnie określić położenia i pędu cząstki.</ans>
+        <prop>Nie można jednocześnie zmierzyć masy i ładunku cząstki, Wszystkie cząstki mają dualizm
+            korpuskularno-falowy, Nie można przekroczyć prędkości światła.
+        </prop>
+    </q>
+    <q>
+        <txt>Jaki jest wzór na energię kinetyczną ciała?</txt>
+        <ans>Ek = 1/2 m v².</ans>
+        <prop>Ek = m g h, Ek = m v, Ek = m v³.</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się cząstka przenosząca siłę elektromagnetyczną?</txt>
+        <ans>Foton.</ans>
+        <prop>Elektron, Neutron, Gluon.</prop>
+    </q>
+    <q>
+        <txt>Dlaczego dźwięk nie rozchodzi się w próżni?</txt>
+        <ans>Ponieważ nie ma medium, które mogłoby przenosić drgania mechaniczne.</ans>
+        <prop>Ponieważ dźwięk jest pochłaniany przez próżnię, Ponieważ próżnia odbija dźwięk, Ponieważ fale dźwiękowe są
+            zbyt słabe.
+        </prop>
+    </q>
+    <q>
+        <txt>Co to jest prawo odbicia światła?</txt>
+        <ans>Kąt padania jest równy kątowi odbicia.</ans>
+        <prop>Kąt padania jest większy od kąta odbicia, Światło zawsze załamuje się przy odbiciu, Światło nie zmienia
+            kierunku.
+        </prop>
+    </q>
+    <q>
+        <txt>Jaka jednostka jest używana do pomiaru mocy?</txt>
+        <ans>Wat (W).</ans>
+        <prop>Dżul (J), Amper (A), Niuton (N).</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się zjawisko, gdy światło zmienia kierunek przy przechodzeniu z jednego ośrodka do drugiego?
+        </txt>
+        <ans>Załamanie światła.</ans>
+        <prop>Dyfrakcja, Odbicie, Interferencja.</prop>
+    </q>
+    <q>
+        <txt>Co to jest prędkość kosmiczna?</txt>
+        <ans>Minimalna prędkość, którą obiekt musi osiągnąć, aby opuścić pole grawitacyjne planety.</ans>
+        <prop>Prędkość obrotu planety wokół osi, Maksymalna prędkość cząstki, Średnia prędkość orbitalna Ziemi.</prop>
+    </q>
+    <q>
+        <txt>Co wyraża równanie E=mc²?</txt>
+        <ans>Związek między energią a masą.</ans>
+        <prop>Zależność energii od temperatury, Relację między ciśnieniem a objętością, Prawo zachowania pędu.</prop>
+    </q>
+    <q>
+        <txt>Jaki jest wzór na ciśnienie?</txt>
+        <ans>P = F / A.</ans>
+        <prop>P = m / V, P = m g, P = v² / r.</prop>
+    </q>
+    <q>
+        <txt>Co to jest interferencja światła?</txt>
+        <ans>Zjawisko nakładania się fal świetlnych prowadzące do wzmocnienia lub wygaszenia.</ans>
+        <prop>Zjawisko odbicia światła, Rozszczepienie światła, Rozpraszanie światła.</prop>
+    </q>
+    <q>
+        <txt>Jaka jest przyczyna ruchu płyt tektonicznych Ziemi?</txt>
+        <ans>Prądy konwekcyjne w płaszczu Ziemi.</ans>
+        <prop>Oddziaływanie Księżyca, Wibracje sejsmiczne, Ciśnienie atmosferyczne.</prop>
+    </q>
+    <q>
+        <txt>Jaką wartość ma przyspieszenie ziemskie na powierzchni Ziemi?</txt>
+        <ans>Około 9,8 m/s².</ans>
+        <prop>Około 1,6 m/s², Około 5 m/s², Około 12 m/s².</prop>
+    </q>
+    <q>
+        <txt>Co to jest pole magnetyczne?</txt>
+        <ans>Obszar, w którym działa siła magnetyczna na poruszające się ładunki i magnesy.</ans>
+        <prop>Obszar, w którym zmienia się temperatura, Obszar, w którym światło jest załamywane, Obszar, w którym
+            panuje próżnia.
+        </prop>
+    </q>
+    <q>
+        <txt>Jakie jest znaczenie zasady zachowania energii?</txt>
+        <ans>Energia w układzie izolowanym nie może zostać stworzona ani zniszczona, lecz może zmieniać formę.</ans>
+        <prop>Energia zawsze wzrasta z czasem, Energia jest zawsze równa masie, Energia nie ma znaczenia w procesach
+            fizycznych.
+        </prop>
+    </q>
+</questions>

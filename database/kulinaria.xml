@@ -1,0 +1,109 @@
+<questions>
+    <q>
+        <txt>Z jakiego kraju pochodzi tradycyjne danie paella?</txt>
+        <ans>Hiszpania</ans>
+        <prop>Włochy, Portugalia, Francja</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się technika gotowania, w której potrawa jest umieszczana w szczelnie zamkniętym worku i
+            gotowana w wodzie o kontrolowanej temperaturze?
+        </txt>
+        <ans>Sous-vide</ans>
+        <prop>Braising, Sautéing, Poaching</prop>
+    </q>
+    <q>
+        <txt>Jakie przyprawy wchodzą w skład tradycyjnego garam masala?</txt>
+        <ans>Kardamon, cynamon, kmin, kolendra</ans>
+        <prop>Oregano, bazylia, chili, czosnek; Kurkuma, kolendra, sól, curry; Pieprz, rozmaryn, tymianek, koper</prop>
+    </q>
+    <q>
+        <txt>Z jakiej części świata pochodzi potrawa sushi?</txt>
+        <ans>Japonia</ans>
+        <prop>Chiny, Korea, Tajlandia</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się deser przygotowany z pieczonego kremu waniliowego z chrupiącą warstwą karmelu na wierzchu?
+        </txt>
+        <ans>Crème brûlée</ans>
+        <prop>Panna cotta, Tiramisu, Eton mess</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się popularny włoski ser używany do przygotowania lasagne i pizzy?</txt>
+        <ans>Mozzarella</ans>
+        <prop>Parmezan, Ricotta, Gorgonzola</prop>
+    </q>
+    <q>
+        <txt>Z jakiej rośliny produkowany jest cukier trzcinowy?</txt>
+        <ans>Trzcina cukrowa</ans>
+        <prop>Burak cukrowy, Kukurydza, Maniok</prop>
+    </q>
+    <q>
+        <txt>Jaki kraj jest największym producentem oliwy z oliwek na świecie?</txt>
+        <ans>Hiszpania</ans>
+        <prop>Włochy, Grecja, Tunezja</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się tradycyjny francuski wypiek w kształcie półksiężyca?</txt>
+        <ans>Croissant</ans>
+        <prop>Bagietka, Pain au chocolat, Éclair</prop>
+    </q>
+    <q>
+        <txt>Jaką nazwę nosi proces usuwania skóry z owoców lub warzyw poprzez zanurzenie ich w gorącej wodzie?</txt>
+        <ans>Blanszowanie</ans>
+        <prop>Parzenie, Gotowanie, Pastryzacja</prop>
+    </q>
+    <q>
+        <txt>Jakie mięso tradycyjnie wykorzystuje się do przygotowania tatara?</txt>
+        <ans>Wołowina</ans>
+        <prop>Wieprzowina, Jagnięcina, Dziczyzna</prop>
+    </q>
+    <q>
+        <txt>Jaki kraj jest znany z produkcji sera halloumi?</txt>
+        <ans>Cypr</ans>
+        <prop>Grecja, Turcja, Liban</prop>
+    </q>
+    <q>
+        <txt>Jaką nazwę nosi rodzaj drożdżowego pieczywa posypanego solą, często podawanego w Niemczech?</txt>
+        <ans>Pretzel</ans>
+        <prop>Bretzel, Focaccia, Chleb pszenny</prop>
+    </q>
+    <q>
+        <txt>Jakie zboże jest podstawowym składnikiem tradycyjnego risotto?</txt>
+        <ans>Ryż</ans>
+        <prop>Kukurydza, Pszenica, Jęczmień</prop>
+    </q>
+    <q>
+        <txt>Jakie warzywo jest głównym składnikiem tradycyjnego hummusu?</txt>
+        <ans>Ciecierzyca</ans>
+        <prop>Soczewica, Fasola, Groch</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się metoda przygotowywania ciasta, która polega na ręcznym rozciąganiu go do bardzo cienkiej
+            warstwy, jak w strudlu?
+        </txt>
+        <ans>Wałkowanie</ans>
+        <prop>Formowanie, Rozwałkowywanie, Ugniatanie</prop>
+    </q>
+    <q>
+        <txt>W którym kraju powstała zupa Pho?</txt>
+        <ans>Wietnam</ans>
+        <prop>Kambodża, Laos, Tajlandia</prop>
+    </q>
+    <q>
+        <txt>Jaką nazwę nosi przyprawa, która powstaje z wysuszonych pręcików krokusa?</txt>
+        <ans>Szafran</ans>
+        <prop>Kurkuma, Kardamon, Cynamon</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się popularne danie kuchni amerykańskiej, które składa się z bułki, mięsa mielonego i
+            dodatków?
+        </txt>
+        <ans>Burger</ans>
+        <prop>Hot dog, Sandwich, Tacos</prop>
+    </q>
+    <q>
+        <txt>Jakie owoce są głównym składnikiem tradycyjnej polskiej szarlotki?</txt>
+        <ans>Jabłka</ans>
+        <prop>Gruszki, Śliwki, Czereśnie</prop>
+    </q>
+</questions>

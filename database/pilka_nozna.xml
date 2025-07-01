@@ -1,0 +1,111 @@
+<questions>
+    <q>
+        <txt>Który piłkarz jest zdobywcą największej liczby Złotych Koron (Złotych Piłek) w historii?</txt>
+        <ans>Lionel Messi</ans>
+        <prop>Cristiano Ronaldo, Zinedine Zidane, Diego Maradona</prop>
+    </q>
+    <q>
+        <txt>W którym roku reprezentacja Brazylii zdobyła po raz pierwszy mistrzostwo świata?</txt>
+        <ans>1958</ans>
+        <prop>1950, 1962, 1970</prop>
+    </q>
+    <q>
+        <txt>Który stadion jest domowym obiektem FC Barcelona?</txt>
+        <ans>Camp Nou</ans>
+        <prop>Santiago Bernabeu, Allianz Arena, Old Trafford</prop>
+    </q>
+    <q>
+        <txt>Ile zawodników bierze udział w oficjalnym meczu piłki nożnej na boisku?</txt>
+        <ans>22</ans>
+        <prop>20, 24, 18</prop>
+    </q>
+    <q>
+        <txt>Który piłkarz strzelił bramkę ręką w ćwierćfinale Mistrzostw Świata w 1986 roku, która przeszła do
+            historii?
+        </txt>
+        <ans>Diego Maradona</ans>
+        <prop>Zinedine Zidane, Pelé, Johan Cruyff</prop>
+    </q>
+    <q>
+        <txt>W jakim roku wprowadzono linię VAR (Video Assistant Referee) w oficjalnych rozgrywkach piłkarskich?</txt>
+        <ans>2018</ans>
+        <prop>2016, 2020, 2015</prop>
+    </q>
+    <q>
+        <txt>Który kraj jest dotychczasowym rekordzistą pod względem liczby zdobytych tytułów mistrzów świata w piłce
+            nożnej?
+        </txt>
+        <ans>Brazylia</ans>
+        <prop>Niemcy, Włochy, Argentyna</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się najważniejszy puchar w rozgrywkach Ligi Mistrzów?</txt>
+        <ans>Puchar Ludwika Komiteta</ans>
+        <prop>Puchar UEFA, Puchar Europy, Puchar Mistrzów</prop>
+    </q>
+    <q>
+        <txt>Który piłkarz jest określany mianem "Króla Piłki" i pochodzi z Brazylii?</txt>
+        <ans>Pelé</ans>
+        <prop>Ronaldinho, Ronaldo, Garrincha</prop>
+    </q>
+    <q>
+        <txt>W którym roku odbył się pierwszy oficjalny mecz reprezentacji Polski w piłce nożnej?</txt>
+        <ans>1921</ans>
+        <prop>1918, 1924, 1930</prop>
+    </q>
+    <q>
+        <txt>Który trener poprowadził reprezentację Niemiec do zwycięstwa w Mistrzostwach Świata w 2014 roku?</txt>
+        <ans>Joachim Löw</ans>
+        <prop>Jürgen Klinsmann, Ottmar Hitzfeld, Helmut Schön</prop>
+    </q>
+    <q>
+        <txt>Jaki jest oficjalny rozmiar piłki używanej w profesjonalnych meczach piłki nożnej?</txt>
+        <ans>5</ans>
+        <prop>4, 6, 3</prop>
+    </q>
+    <q>
+        <txt>Który piłkarz zdobył tytuł mistrza świata zarówno jako zawodnik, jak i trener?</txt>
+        <ans>Franz Beckenbauer</ans>
+        <prop>Pelé, Diego Maradona, Zinedine Zidane</prop>
+    </q>
+    <q>
+        <txt>W którym mieście rozegrano pierwszy oficjalny finał Mistrzostw Świata?</txt>
+        <ans>Montevideo</ans>
+        <prop>Rio de Janeiro, Buenos Aires, Londyn</prop>
+    </q>
+    <q>
+        <txt>Który klub zdobył najwięcej tytułów Ligi Mistrzów w historii?</txt>
+        <ans>Real Madryt</ans>
+        <prop>Bayern Monachium, FC Barcelona, Liverpool</prop>
+    </q>
+    <q>
+        <txt>Ile minut trwa oficjalny mecz piłki nożnej?</txt>
+        <ans>90</ans>
+        <prop>80, 100, 120</prop>
+    </q>
+    <q>
+        <txt>Który piłkarz jest określany mianem "Fenomena"?</txt>
+        <ans>Ronaldo</ans>
+        <prop>Cristiano Ronaldo, Neymar, Roberto Carlos</prop>
+    </q>
+    <q>
+        <txt>W którym roku rozpoczęły się oficjalne rozgrywki Ligi Mistrzów?</txt>
+        <ans>1955</ans>
+        <prop>1960, 1950, 1965</prop>
+    </q>
+    <q>
+        <txt>Który piłkarz zdobył Złotą Piłkę w rekordowych siedmiu edycjach?</txt>
+        <ans>Lionel Messi</ans>
+        <prop>Cristiano Ronaldo, Pelé, Zinedine Zidane</prop>
+    </q>
+    <q>
+        <txt>Jaki jest oficjalny dystans między linią bramkową a polem karnym?</txt>
+        <ans>16,5 metra</ans>
+        <prop>18 metrów, 15 metrów, 17 metrów</prop>
+    </q>
+    <q>
+        <txt>Który trener poprowadził reprezentację Francji do zwycięstwa w Mistrzostwach Świata w 2018 roku?</txt>
+        <ans>Didier Deschamps</ans>
+        <prop>Raymond Domenech, Laurent Blanc, Aimé Jacquet</prop>
+    </q>
+</questions>

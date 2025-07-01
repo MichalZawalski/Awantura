@@ -1,0 +1,58 @@
+<questions>
+    <q>
+        <txt>Jaka jest złożoność obliczeniowa algorytmu sortowania szybkiego w najlepszym przypadku?</txt>
+        <ans>O(n log n)</ans>
+        <prop>O(n^2), O(log n), O(n)</prop>
+    </q>
+    <q>
+        <txt>Jaką strukturę danych najczęściej wykorzystuje się do implementacji kolejki priorytetowej?</txt>
+        <ans>Kopiec</ans>
+        <prop>Lista jednokierunkowa, Stos, Tablica dynamiczna</prop>
+    </q>
+    <q>
+        <txt>Jaką nazwę nosi technika algorytmiczna, która rozwiązuje problem, dzieląc go na mniejsze, niezależne
+            podproblemy i łącząc ich rozwiązania?
+        </txt>
+        <ans>Divide and conquer</ans>
+        <prop>Dynamiczne programowanie, Algorytmy zachłanne, Backtracking</prop>
+    </q>
+    <q>
+        <txt>Jakie drzewo służy do przechowywania elementów w sposób uporządkowany, tak aby operacje wyszukiwania,
+            wstawiania i usuwania miały złożoność O(log n)?
+        </txt>
+        <ans>Drzewo BST (Binary Search Tree)</ans>
+        <prop>Drzewo binarne, Kopiec, Drzewo AVL</prop>
+    </q>
+    <q>
+        <txt>Jaka jest minimalna liczba krawędzi w grafie spójnym z n wierzchołkami?</txt>
+        <ans>n-1</ans>
+        <prop>n, 2n-2, n/2</prop>
+    </q>
+    <q>
+        <txt>Jaki algorytm znajduje najkrótszą ścieżkę od jednego wierzchołka do wszystkich innych w grafie z wagami
+            krawędzi?
+        </txt>
+        <ans>Algorytm Dijkstry</ans>
+        <prop>Algorytm Floyda-Warshalla, Algorytm Kruskala, Algorytm Bellmana-Forda</prop>
+    </q>
+    <q>
+        <txt>Jaką strukturę danych wykorzystuje algorytm DFS do implementacji swojego stosu operacji?</txt>
+        <ans>Stos</ans>
+        <prop>Kolejka, Tablica, Lista</prop>
+    </q>
+    <q>
+        <txt>Jaką funkcję haszującą najlepiej stosować w tablicy haszującej, aby zminimalizować kolizje?</txt>
+        <ans>Funkcja, która generuje równomierne rozłożenie wartości</ans>
+        <prop>Funkcja liniowa, Funkcja losowa, Funkcja stała</prop>
+    </q>
+    <q>
+        <txt>Jaką nazwę nosi algorytm sortowania, który działa efektywnie dla danych niemal posortowanych?</txt>
+        <ans>Sortowanie przez wstawianie</ans>
+        <prop>Sortowanie szybkie, Sortowanie przez wybór, Sortowanie bąbelkowe</prop>
+    </q>
+    <q>
+        <txt>Jaka jest najczęstsza złożoność czasowa algorytmów przeszukiwania liniowego?</txt>
+        <ans>O(n)</ans>
+        <prop>O(log n), O(n^2), O(1)</prop>
+    </q>
+</questions>

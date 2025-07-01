@@ -1,0 +1,107 @@
+<questions>
+    <q>
+        <txt>Który zespół rockowy nagrał album "The Dark Side of the Moon"?</txt>
+        <ans>Pink Floyd</ans>
+        <prop>The Rolling Stones, Led Zeppelin, Queen</prop>
+    </q>
+    <q>
+        <txt>Kto wyreżyserował trylogię "Władca Pierścieni"?</txt>
+        <ans>Peter Jackson</ans>
+        <prop>James Cameron, Christopher Nolan, Steven Spielberg</prop>
+    </q>
+    <q>
+        <txt>W jakim serialu główną rolę grał Bryan Cranston jako nauczyciel chemii?</txt>
+        <ans>Breaking Bad</ans>
+        <prop>The Wire, Sons of Anarchy, Narcos</prop>
+    </q>
+    <q>
+        <txt>Jaką nagrodę otrzymują najwybitniejsi twórcy w świecie filmu?</txt>
+        <ans>Oscar</ans>
+        <prop>Grammy, Emmy, Złoty Glob</prop>
+    </q>
+    <q>
+        <txt>Kto napisał powieść "Harry Potter"?</txt>
+        <ans>J.K. Rowling</ans>
+        <prop>Stephenie Meyer, George R.R. Martin, Rick Riordan</prop>
+    </q>
+    <q>
+        <txt>Która firma wydała konsolę PlayStation 4?</txt>
+        <ans>Sony</ans>
+        <prop>Microsoft, Nintendo, Sega</prop>
+    </q>
+    <q>
+        <txt>Kto zagrał główną rolę w filmie "Titanic"?</txt>
+        <ans>Leonardo DiCaprio</ans>
+        <prop>Brad Pitt, Tom Cruise, Johnny Depp</prop>
+    </q>
+    <q>
+        <txt>Jaka platforma społecznościowa została założona przez Marka Zuckerberga?</txt>
+        <ans>Facebook</ans>
+        <prop>Twitter, Instagram, LinkedIn</prop>
+    </q>
+    <q>
+        <txt>W jakim serialowym świecie można spotkać postacie Jona Snow'a i Daenerys Targaryen?</txt>
+        <ans>Gra o Tron</ans>
+        <prop>The Walking Dead, Stranger Things, Vikings</prop>
+    </q>
+    <q>
+        <txt>Który aktor wcielił się w rolę Iron Mana w filmach Marvel Cinematic Universe?</txt>
+        <ans>Robert Downey Jr.</ans>
+        <prop>Chris Evans, Chris Hemsworth, Mark Ruffalo</prop>
+    </q>
+    <q>
+        <txt>Która polska wokalistka wykonuje piosenki w stylu pop i jest laureatką wielu nagród?</txt>
+        <ans>Margaret</ans>
+        <prop>Sylwia Lipka, Doda, Edyta Górniak</prop>
+    </q>
+    <q>
+        <txt>Jaki tytuł nosi pierwsza część serii gier o Geralcie z Rivii?</txt>
+        <ans>Wiedźmin</ans>
+        <prop>Mortal Kombat, Assassin's Creed, Call of Duty</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem komiksu "Watchmen"?</txt>
+        <ans>Alan Moore</ans>
+        <prop>Frank Miller, Neil Gaiman, Stan Lee</prop>
+    </q>
+    <q>
+        <txt>Który aktor dubbinguje Shreka w polskiej wersji językowej?</txt>
+        <ans>Maciej Stuhr</ans>
+        <prop>Wojciech Malajkat, Michał Żebrowski, Borys Szyc</prop>
+    </q>
+    <q>
+        <txt>Jaki tytuł nosi pierwsza część sagi filmowej "Zmierzch"?</txt>
+        <ans>Twilight</ans>
+        <prop>New Moon, Eclipse, Breaking Dawn</prop>
+    </q>
+    <q>
+        <txt>Która polska aktorka zagrała główną rolę w serialu "Rojst"?</txt>
+        <ans>Magdalena Popławska</ans>
+        <prop>Katarzyna Figura, Agata Kulesza, Małgorzata Kożuchowska</prop>
+    </q>
+    <q>
+        <txt>Kto jest twórcą serialu "Black Mirror"?</txt>
+        <ans>Charlie Brooker</ans>
+        <prop>Ryan Murphy, Vince Gilligan, Jenji Kohan</prop>
+    </q>
+    <q>
+        <txt>Który muzyk jest znany z piosenek "Shape of You" i "Thinking Out Loud"?</txt>
+        <ans>Ed Sheeran</ans>
+        <prop>Bruno Mars, Sam Smith, Justin Bieber</prop>
+    </q>
+    <q>
+        <txt>W jakiej serii gier można wcielić się w Nathan Drake'a?</txt>
+        <ans>Uncharted</ans>
+        <prop>Tomb Raider, Far Cry, Assassin's Creed</prop>
+    </q>
+    <q>
+        <txt>Który reżyser jest znany z filmów "Pulp Fiction" i "Django"?</txt>
+        <ans>Quentin Tarantino</ans>
+        <prop>Martin Scorsese, Francis Ford Coppola, Steven Spielberg</prop>
+    </q>
+    <q>
+        <txt>Jaki tytuł nosi pierwszy film z serii o Bondzie z Danielem Craigiem?</txt>
+        <ans>Casino Royale</ans>
+        <prop>Quantum of Solace, Skyfall, Spectre</prop>
+    </q>
+</questions>

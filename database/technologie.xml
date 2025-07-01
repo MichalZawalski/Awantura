@@ -1,0 +1,106 @@
+<questions>
+    <q>
+        <txt>Który wynalazek uważa się za początek ery komputerów?</txt>
+        <ans>Maszyna różnicowa Charlesa Babbage'a</ans>
+        <prop>ENIAC, Apple I, maszyna Turinga</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się system operacyjny stworzony przez Linusa Torvaldsa?</txt>
+        <ans>Linux</ans>
+        <prop>Unix, Windows, FreeBSD</prop>
+    </q>
+    <q>
+        <txt>Który protokół jest podstawą przesyłania stron internetowych?</txt>
+        <ans>HTTP</ans>
+        <prop>FTP, SMTP, DNS</prop>
+    </q>
+    <q>
+        <txt>Kto wynalazł pierwszy telefon?</txt>
+        <ans>Alexander Graham Bell</ans>
+        <prop>Thomas Edison, Nikola Tesla, Guglielmo Marconi</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się robot humanoidalny opracowany przez firmę Boston Dynamics?</txt>
+        <ans>Atlas</ans>
+        <prop>Spot, Sophia, ASIMO</prop>
+    </q>
+    <q>
+        <txt>W którym roku uruchomiono pierwszą stronę internetową?</txt>
+        <ans>1991</ans>
+        <prop>1985, 1995, 1989</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się najpopularniejszy język programowania dla aplikacji webowych po stronie serwera?</txt>
+        <ans>JavaScript</ans>
+        <prop>Python, PHP, Ruby</prop>
+    </q>
+    <q>
+        <txt>Która firma stworzyła pierwszego iPhone’a?</txt>
+        <ans>Apple</ans>
+        <prop>Microsoft, Samsung, Nokia</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się proces zmniejszania zużycia energii w urządzeniach elektronicznych?</txt>
+        <ans>Efektywność energetyczna</ans>
+        <prop>Recykling, kompresja, redukcja emisji</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się jednostka miary szybkości przesyłu danych w sieciach komputerowych?</txt>
+        <ans>Bit na sekundę (bps)</ans>
+        <prop>Bajt na sekundę, Hertz, Ohm</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się najpopularniejsza platforma streamingowa dla gier wideo?</txt>
+        <ans>Twitch</ans>
+        <prop>Discord, YouTube, Steam</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się technologia pozwalająca na bezprzewodową komunikację na krótkim dystansie między
+            urządzeniami?
+        </txt>
+        <ans>Bluetooth</ans>
+        <prop>Wi-Fi, NFC, IrDA</prop>
+    </q>
+    <q>
+        <txt>Kto stworzył koncepcję sztucznej inteligencji jako „maszyny uczącej się”?</txt>
+        <ans>Alan Turing</ans>
+        <prop>John von Neumann, Marvin Minsky, Norbert Wiener</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się technologia oparta na kryptografii, umożliwiająca tworzenie zdecentralizowanych baz
+            danych?
+        </txt>
+        <ans>Blockchain</ans>
+        <prop>VPN, Cloud Computing, AI</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się wirus komputerowy, który samodzielnie rozprzestrzenia się przez sieci?</txt>
+        <ans>Robak</ans>
+        <prop>Trojan, Ransomware, Spyware</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się technologia wyświetlania obrazów w trzech wymiarach, używana np. w kinach?</txt>
+        <ans>3D</ans>
+        <prop>AR, VR, HDR</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się globalna sieć połączonych ze sobą komputerów?</txt>
+        <ans>Internet</ans>
+        <prop>Intranet, Extranet, Darknet</prop>
+    </q>
+    <q>
+        <txt>Która marka wprowadziła na rynek pierwszy komercyjny komputer osobisty?</txt>
+        <ans>IBM</ans>
+        <prop>Apple, Microsoft, HP</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się jednostka pamięci odpowiadająca 1024 bajtom?</txt>
+        <ans>Kilobajt</ans>
+        <prop>Megabajt, Gigabajt, Bit</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się technologia umożliwiająca połączenie urządzeń z siecią za pomocą fal radiowych?</txt>
+        <ans>Wi-Fi</ans>
+        <prop>LTE, Bluetooth, Zigbee</prop>
+    </q>
+</questions>

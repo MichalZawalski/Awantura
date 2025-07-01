@@ -1,0 +1,104 @@
+<questions>
+    <q>
+        <txt>Jaki pierwiastek chemiczny jest oznaczany symbolem "O" w układzie okresowym?</txt>
+        <ans>Tlen</ans>
+        <prop>Węgiel, Azot, Sód</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się proces chemiczny, w którym jedna substancja traci elektrony?</txt>
+        <ans>Utlenianie</ans>
+        <prop>Redukcja, Sublimacja, Destylacja</prop>
+    </q>
+    <q>
+        <txt>Jaką wartość ma liczba Avogadra, wyrażająca liczbę cząsteczek w jednym molu substancji?</txt>
+        <ans>6,022 × 10²³</ans>
+        <prop>3,14 × 10²³, 1,6 × 10⁻¹⁹, 9,81 × 10⁸</prop>
+    </q>
+    <q>
+        <txt>Który pierwiastek został jako pierwszy odkryty dzięki analizie spektralnej?</txt>
+        <ans>Hel</ans>
+        <prop>Neon, Lit, Rad</prop>
+    </q>
+    <q>
+        <txt>Jaką nazwę nosi skala, która mierzy kwasowość i zasadowość roztworu?</txt>
+        <ans>pH</ans>
+        <prop>Skala Newtona, Skala Mohsa, Skala Kelvinów</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się reakcja chemiczna, w której woda jest produktem ubocznym?</txt>
+        <ans>Kondensacja</ans>
+        <prop>Hydroliza, Polimeryzacja, Reakcja spalania</prop>
+    </q>
+    <q>
+        <txt>Który pierwiastek chemiczny jest najlżejszy?</txt>
+        <ans>Wodór</ans>
+        <prop>Hel, Lit, Tlen</prop>
+    </q>
+    <q>
+        <txt>Jakie wiązanie chemiczne powstaje, gdy atomy dzielą się elektronami?</txt>
+        <ans>Wiązanie kowalencyjne</ans>
+        <prop>Wiązanie jonowe, Wiązanie wodorowe, Wiązanie metaliczne</prop>
+    </q>
+    <q>
+        <txt>Jakie jest główne zastosowanie katalizatora w reakcjach chemicznych?</txt>
+        <ans>Przyspiesza reakcję chemiczną</ans>
+        <prop>Zmniejsza masę produktów, Zwiększa pH roztworu, Usuwa wodę z roztworu</prop>
+    </q>
+    <q>
+        <txt>Co oznacza liczba atomowa pierwiastka?</txt>
+        <ans>Liczbę protonów w jądrze atomu</ans>
+        <prop>Liczbę neutronów, Liczbę elektronów na ostatniej powłoce, Liczbę masową</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się reakcja, w której jedna substancja rozkłada się na prostsze związki lub pierwiastki?</txt>
+        <ans>Rozkład chemiczny</ans>
+        <prop>Synteza, Spalanie, Utlenianie</prop>
+    </q>
+    <q>
+        <txt>Który gaz jest głównym składnikiem powietrza?</txt>
+        <ans>Azot</ans>
+        <prop>Tlen, Dwutlenek węgla, Hel</prop>
+    </q>
+    <q>
+        <txt>Jaki pierwiastek chemiczny występuje w każdym związku organicznym?</txt>
+        <ans>Węgiel</ans>
+        <prop>Tlen, Wodór, Azot</prop>
+    </q>
+    <q>
+        <txt>Jaką nazwę nosi proces, w którym substancja przechodzi bezpośrednio ze stanu stałego w gazowy?</txt>
+        <ans>Sublimacja</ans>
+        <prop>Skraplanie, Topnienie, Parowanie</prop>
+    </q>
+    <q>
+        <txt>Który pierwiastek chemiczny jest płynny w temperaturze pokojowej?</txt>
+        <ans>Rtęć</ans>
+        <prop>Brom, Lit, Wodór</prop>
+    </q>
+    <q>
+        <txt>Jaki jest wzór chemiczny wody?</txt>
+        <ans>H₂O</ans>
+        <prop>CO₂, NaCl, NH₃</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się prawo, które opisuje zależność między ciśnieniem i objętością gazu przy stałej
+            temperaturze?
+        </txt>
+        <ans>Prawo Boyle’a</ans>
+        <prop>Prawo Charlesa, Prawo Avogadra, Prawo Daltona</prop>
+    </q>
+    <q>
+        <txt>Jakie jest standardowe stężenie jonów wodorowych w roztworze o pH równym 7?</txt>
+        <ans>10⁻⁷ mol/L</ans>
+        <prop>10⁻⁵ mol/L, 10⁻⁸ mol/L, 10⁻³ mol/L</prop>
+    </q>
+    <q>
+        <txt>Jaka substancja chemiczna jest głównym składnikiem octu?</txt>
+        <ans>Kwas octowy</ans>
+        <prop>Kwas siarkowy, Kwas fosforowy, Kwas mrówkowy</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się zjawisko zwiększenia szybkości reakcji chemicznej pod wpływem światła?</txt>
+        <ans>Fotochemia</ans>
+        <prop>Termochemia, Elektrochemia, Radiochemia</prop>
+    </q>
+</questions>

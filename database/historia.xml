@@ -1,0 +1,107 @@
+<questions>
+    <q>
+        <txt>Który władca Polski jako pierwszy został koronowany w katedrze wawelskiej?</txt>
+        <ans>Władysław Łokietek</ans>
+        <prop>Kazimierz Wielki, Bolesław Chrobry, Mieszko I</prop>
+    </q>
+    <q>
+        <txt>W którym roku wybuchło powstanie listopadowe przeciwko rosyjskim władzom zaborczym?</txt>
+        <ans>1830</ans>
+        <prop>1820, 1840, 1850</prop>
+    </q>
+    <q>
+        <txt>Kto dowodził wojskami polskimi podczas zwycięskiej bitwy pod Wiedniem w 1683 roku?</txt>
+        <ans>Jan III Sobieski</ans>
+        <prop>Stanisław Żółkiewski, Kazimierz Pułaski, Tadeusz Kościuszko</prop>
+    </q>
+    <q>
+        <txt>W którym roku wynaleziono pierwszy praktyczny silnik parowy?</txt>
+        <ans>1712</ans>
+        <prop>1690, 1750, 1800</prop>
+    </q>
+    <q>
+        <txt>Który traktat kończący wojnę siedmioletnią został podpisany w 1763 roku?</txt>
+        <ans>Traktat paryski</ans>
+        <prop>Traktat westfalski, Traktat wersalski, Traktat frankfurcki</prop>
+    </q>
+    <q>
+        <txt>W którym roku Krzyżacy ponieśli klęskę w bitwie pod Grunwaldem?</txt>
+        <ans>1410</ans>
+        <prop>1389, 1420, 1435</prop>
+    </q>
+    <q>
+        <txt>Który angielski monarcha był znany z reformacji i utworzenia Kościoła anglikańskiego?</txt>
+        <ans>Henryk VIII</ans>
+        <prop>Edward VI, Jerzy III, Elżbieta I</prop>
+    </q>
+    <q>
+        <txt>W którym roku wybuchła Rewolucja Francuska?</txt>
+        <ans>1789</ans>
+        <prop>1776, 1804, 1815</prop>
+    </q>
+    <q>
+        <txt>Kto był głównym przywódcą rewolucji kubańskiej?</txt>
+        <ans>Fidel Castro</ans>
+        <prop>Che Guevara, Hugo Chavez, Augusto Pinochet</prop>
+    </q>
+    <q>
+        <txt>W którym roku podpisano traktat wersalski, kończący I wojnę światową?</txt>
+        <ans>1919</ans>
+        <prop>1914, 1917, 1923</prop>
+    </q>
+    <q>
+        <txt>Który polski dowódca był przywódcą insurekcji kościuszkowskiej?</txt>
+        <ans>Tadeusz Kościuszko</ans>
+        <prop>Józef Piłsudski, Kazimierz Pułaski, Władysław Anders</prop>
+    </q>
+    <q>
+        <txt>W którym roku wynaleziono pierwszy telefon?</txt>
+        <ans>1876</ans>
+        <prop>1850, 1890, 1900</prop>
+    </q>
+    <q>
+        <txt>Który włoski polityk zjednoczył Włochy w XIX wieku?</txt>
+        <ans>Giuseppe Garibaldi</ans>
+        <prop>Benito Mussolini, Camillo Cavour, Victor Emmanuel II</prop>
+    </q>
+    <q>
+        <txt>W którym roku upadł mur berliński?</txt>
+        <ans>1989</ans>
+        <prop>1985, 1991, 1987</prop>
+    </q>
+    <q>
+        <txt>Kto był pierwszym prezydentem Stanów Zjednoczonych?</txt>
+        <ans>George Washington</ans>
+        <prop>Thomas Jefferson, John Adams, Benjamin Franklin</prop>
+    </q>
+    <q>
+        <txt>W którym roku wybuchła rewolucja rosyjska?</txt>
+        <ans>1917</ans>
+        <prop>1905, 1922, 1934</prop>
+    </q>
+    <q>
+        <txt>Który chiński przywódca wprowadził politykę Reform i Otwarcia?</txt>
+        <ans>Deng Xiaoping</ans>
+        <prop>Mao Zedong, Chiang Kai-shek, Sun Yat-sen</prop>
+    </q>
+    <q>
+        <txt>W którym roku wynaleziono pierwszy komputer elektroniczny?</txt>
+        <ans>1946</ans>
+        <prop>1930, 1955, 1965</prop>
+    </q>
+    <q>
+        <txt>Który włoski żeglarz jako pierwszy dotarł do Ameryki?</txt>
+        <ans>Krzysztof Kolumb</ans>
+        <prop>Marco Polo, Amerigo Vespucci, Giovanni Caboto</prop>
+    </q>
+    <q>
+        <txt>W którym roku zakończyła się II wojna światowa?</txt>
+        <ans>1945</ans>
+        <prop>1943, 1947, 1950</prop>
+    </q>
+    <q>
+        <txt>Kto był przywódcą ruchu niepodległościowego w Indiach?</txt>
+        <ans>Mahatma Gandhi</ans>
+        <prop>Jawaharlal Nehru, Indira Gandhi, Subhas Chandra Bose</prop>
+    </q>
+</questions>

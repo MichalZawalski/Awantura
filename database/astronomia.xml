@@ -1,0 +1,109 @@
+<questions>
+    <q>
+        <txt>Która planeta Układu Słonecznego jest znana z charakterystycznych pierścieni otaczających ją dookoła?</txt>
+        <ans>Saturn</ans>
+        <prop>Jowisz, Uran, Neptun</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się najbliższa nam gwiazda?</txt>
+        <ans>Słońce</ans>
+        <prop>Syriusz, Proxima Centauri, Alfa Centauri</prop>
+    </q>
+    <q>
+        <txt>Kto jako pierwszy zaobserwował księżyce Jowisza za pomocą teleskopu?</txt>
+        <ans>Galileusz</ans>
+        <prop>Mikołaj Kopernik, Johannes Kepler, Isaac Newton</prop>
+    </q>
+    <q>
+        <txt>Ile planet w przybliżeniu znajduje się w naszym Układzie Słonecznym?</txt>
+        <ans>8</ans>
+        <prop>6, 7, 9</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się zespół gwiazd tworzących charakterystyczny układ przypominający niedźwiedzicę?</txt>
+        <ans>Wielki Wóz</ans>
+        <prop>Mały Wóz, Orion, Łabędź</prop>
+    </q>
+    <q>
+        <txt>Jak długo światło słoneczne dociera do Ziemi?</txt>
+        <ans>około 8 minut</ans>
+        <prop>około 5 minut, około 10 minut, około 12 minut</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się pierwsza sonda kosmiczna, która wyleciała poza granice Układu Słonecznego?</txt>
+        <ans>Voyager 1</ans>
+        <prop>Pioneer 10, New Horizons, Cassini</prop>
+    </q>
+    <q>
+        <txt>Co oznacza skrót NASA?</txt>
+        <ans>National Aeronautics and Space Administration</ans>
+        <prop>North American Space Agency, National Astronomical Space Association, North Atlantic Space
+            Administration
+        </prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się zjawisko całkowitego zasłonięcia tarczy słonecznej przez Księżyc?</txt>
+        <ans>Zaćmienie Słońca</ans>
+        <prop>Zaćmienie Księżyca, Wewnętrzne zaćmienie, Przejście Planet</prop>
+    </q>
+    <q>
+        <txt>Która planeta jest znana z intensywnego, charakterystycznego czerwonego zabarwienia?</txt>
+        <ans>Mars</ans>
+        <prop>Wenus, Merkury, Jowisz</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się najbliższa nam galaktyka?</txt>
+        <ans>Droga Mleczna</ans>
+        <prop>Andromeda, Trójkąt, Wielki Obłok Magellana</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem teorii heliocentrycznej, według której Słońce jest centrum Układu Słonecznego?</txt>
+        <ans>Mikołaj Kopernik</ans>
+        <prop>Galileusz, Isaac Newton, Johannes Kepler</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się granica, poza którą kończy się atmosfera Ziemi?</txt>
+        <ans>Linia Kármána</ans>
+        <prop>Linia Armstronga, Linia Einsteina, Linia Newtona</prop>
+    </q>
+    <q>
+        <txt>Ile księżyców posiada Jowisz?</txt>
+        <ans>79 znanych</ans>
+        <prop>56 znanych, 87 znanych, 102 znane</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się pierwszy sztuczny satelita wyniesiony przez człowieka w przestrzeń kosmiczną?</txt>
+        <ans>Sputnik 1</ans>
+        <prop>Explorer 1, Łunnik 1, Wostok 1</prop>
+    </q>
+    <q>
+        <txt>Ile wynosi przybliżona temperatura na powierzchni Słońca w stopniach Celsjusza?</txt>
+        <ans>5500 stopni</ans>
+        <prop>4000 stopni, 6000 stopni, 7500 stopni</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się dokładka między Marsem a Jowiszem, gdzie krążą liczne małe ciała niebieskie?</txt>
+        <ans>Pas asteroid</ans>
+        <prop>Pas Kuipera, Chmura Oorta, Pierścień asteroid</prop>
+    </q>
+    <q>
+        <txt>Który z planetoidów jest uznawany za największy w Układzie Słonecznym?</txt>
+        <ans>Ceres</ans>
+        <prop>Eris, Pluton, Haumea</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się pierwsza kobieta, która poleciała w kosmos?</txt>
+        <ans>Walentyna Tierieszkowa</ans>
+        <prop>Sally Ride, Swietłana Sawicka, Helen Sharman</prop>
+    </q>
+    <q>
+        <txt>Ile lat świetlnych wynosi odległość między Ziemią a Słońcem?</txt>
+        <ans>około 8 minut świetlnych</ans>
+        <prop>około 5 minut świetlnych, około 10 minut świetlnych, około 12 minut świetlnych</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się obszar na krańcach Układu Słonecznego, gdzie znajdują się lodowe ciała niebieskie?</txt>
+        <ans>Pas Kuipera</ans>
+        <prop>Chmura Oorta, Pierścień asteroid, Strefa transneptunowa</prop>
+    </q>
+</questions>

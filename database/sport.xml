@@ -1,0 +1,105 @@
+<questions>
+    <q>
+        <txt>W którym roku odbyły się pierwsze nowożytne Igrzyska Olimpijskie?</txt>
+        <ans>1896</ans>
+        <prop>1900, 1852, 1884</prop>
+    </q>
+    <q>
+        <txt>Która drużyna piłkarska zdobyła najwięcej tytułów Ligi Mistrzów UEFA?</txt>
+        <ans>Real Madryt</ans>
+        <prop>AC Milan, FC Barcelona, Bayern Monachium</prop>
+    </q>
+    <q>
+        <txt>W jakiej dyscyplinie Michael Phelps zdobył swoje olimpijskie medale?</txt>
+        <ans>Pływanie</ans>
+        <prop>Gimnastyka, Lekkoatletyka, Wioślarstwo</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się polski skoczek narciarski, który zdobył dwa złote medale na Igrzyskach Olimpijskich w 2014
+            roku?
+        </txt>
+        <ans>Kamil Stoch</ans>
+        <prop>Adam Małysz, Piotr Żyła, Dawid Kubacki</prop>
+    </q>
+    <q>
+        <txt>W którym kraju powstała gra w koszykówkę?</txt>
+        <ans>Stany Zjednoczone</ans>
+        <prop>Kanada, Francja, Wielka Brytania</prop>
+    </q>
+    <q>
+        <txt>Kto zdobył Złotą Piłkę jako pierwszy piłkarz w historii?</txt>
+        <ans>Stanley Matthews</ans>
+        <prop>Alfredo Di Stéfano, George Best, Lev Yashin</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się stadion, na którym swoje mecze rozgrywa FC Barcelona?</txt>
+        <ans>Camp Nou</ans>
+        <prop>Santiago Bernabéu, Allianz Arena, Old Trafford</prop>
+    </q>
+    <q>
+        <txt>Jaka jest maksymalna liczba punktów możliwa do zdobycia w jednym podejściu w grze w kręgle?</txt>
+        <ans>300</ans>
+        <prop>250, 200, 350</prop>
+    </q>
+    <q>
+        <txt>Jaką narodowość miał kierowca wyścigowy Ayrton Senna?</txt>
+        <ans>Brazylijską</ans>
+        <prop>Argentyńską, Włoską, Hiszpańską</prop>
+    </q>
+    <q>
+        <txt>W którym roku Polska zdobyła złoty medal w piłce nożnej na Igrzyskach Olimpijskich?</txt>
+        <ans>1972</ans>
+        <prop>1974, 1968, 1980</prop>
+    </q>
+    <q>
+        <txt>Kto jest rekordzistą świata na 100 metrów w biegu mężczyzn?</txt>
+        <ans>Usain Bolt</ans>
+        <prop>Carl Lewis, Tyson Gay, Justin Gatlin</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się trofeum przyznawane zwycięzcy ligi NHL?</txt>
+        <ans>Puchar Stanleya</ans>
+        <prop>Claret Jug, Vince Lombardi Trophy, Calder Cup</prop>
+    </q>
+    <q>
+        <txt>W jakim sporcie używa się rakietki i lotki?</txt>
+        <ans>Badminton</ans>
+        <prop>Squash, Tenis stołowy, Hokej na trawie</prop>
+    </q>
+    <q>
+        <txt>Kto jest uważany za najlepszego strzelca w historii piłki nożnej pod względem liczby oficjalnych goli?
+        </txt>
+        <ans>Cristiano Ronaldo</ans>
+        <prop>Lionel Messi, Pelé, Gerd Müller</prop>
+    </q>
+    <q>
+        <txt>Jaką dyscyplinę sportu uprawiała Serena Williams?</txt>
+        <ans>Tenis</ans>
+        <prop>Siatkówka, Koszykówka, Golf</prop>
+    </q>
+    <q>
+        <txt>W którym roku Robert Lewandowski został królem strzelców Bundesligi po raz pierwszy?</txt>
+        <ans>2014</ans>
+        <prop>2013, 2015, 2016</prop>
+    </q>
+    <q>
+        <txt>Jaką nazwę nosi najwyższa liga koszykówki w USA?</txt>
+        <ans>NBA</ans>
+        <prop>NFL, MLB, NHL</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się najbardziej prestiżowy wyścig kolarski na świecie?</txt>
+        <ans>Tour de France</ans>
+        <prop>Giro d’Italia, Vuelta a España, Paris-Roubaix</prop>
+    </q>
+    <q>
+        <txt>W jakim mieście odbyły się Letnie Igrzyska Olimpijskie w 2000 roku?</txt>
+        <ans>Sydney</ans>
+        <prop>Ateny, Atlanta, Pekin</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się zawodnik, który zdobył najwięcej punktów w historii NBA?</txt>
+        <ans>LeBron James</ans>
+        <prop>Kareem Abdul-Jabbar, Michael Jordan, Kobe Bryant</prop>
+    </q>
+</questions>

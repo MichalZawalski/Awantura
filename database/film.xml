@@ -1,0 +1,102 @@
+<questions>
+    <q>
+        <txt>W którym roku odbyła się pierwsza ceremonia wręczenia Oscarów?</txt>
+        <ans>1929</ans>
+        <prop>1931, 1925, 1930</prop>
+    </q>
+    <q>
+        <txt>Jaki tytuł nosi pierwsza pełnometrażowa animacja wyprodukowana przez studio Disney?</txt>
+        <ans>Królewna Śnieżka i siedmiu krasnoludków</ans>
+        <prop>Kopciuszek, Piotruś Pan, Pinokio</prop>
+    </q>
+    <q>
+        <txt>Kto wcielił się w postać Vito Corleone w filmie „Ojciec chrzestny” z 1972 roku?</txt>
+        <ans>Marlon Brando</ans>
+        <prop>Al Pacino, Robert De Niro, James Caan</prop>
+    </q>
+    <q>
+        <txt>Kto wyreżyserował film „Pulp Fiction” z 1994 roku?</txt>
+        <ans>Quentin Tarantino</ans>
+        <prop>Martin Scorsese, Steven Spielberg, Francis Ford Coppola</prop>
+    </q>
+    <q>
+        <txt>Jaki polski film zdobył Oscara za najlepszy film nieanglojęzyczny w 2015 roku?</txt>
+        <ans>Ida</ans>
+        <prop>Faraon, Ziemia obiecana, Katyń</prop>
+    </q>
+    <q>
+        <txt>W jakim filmie pada słynna kwestia „May the Force be with you”?</txt>
+        <ans>Gwiezdne wojny</ans>
+        <prop>Star Trek, Łowca androidów, Interstellar</prop>
+    </q>
+    <q>
+        <txt>Który kompozytor stworzył ścieżkę dźwiękową do filmu „Incepcja”?</txt>
+        <ans>Hans Zimmer</ans>
+        <prop>John Williams, Ennio Morricone, James Horner</prop>
+    </q>
+    <q>
+        <txt>Który aktor zagrał rolę Wolverina w serii filmów o X-Menach?</txt>
+        <ans>Hugh Jackman</ans>
+        <prop>Chris Hemsworth, Robert Downey Jr., Tom Hardy</prop>
+    </q>
+    <q>
+        <txt>Jaki tytuł nosi film, w którym Audrey Hepburn zagrała Holly Golightly?</txt>
+        <ans>Śniadanie u Tiffany’ego</ans>
+        <prop>Sabrina, Rzymskie wakacje, My Fair Lady</prop>
+    </q>
+    <q>
+        <txt>Kto wyreżyserował film „Psychoza” z 1960 roku?</txt>
+        <ans>Alfred Hitchcock</ans>
+        <prop>Stanley Kubrick, Orson Welles, Billy Wilder</prop>
+    </q>
+    <q>
+        <txt>Jaki film zdobył rekordową liczbę 11 Oscarów w 1998 roku?</txt>
+        <ans>Titanic</ans>
+        <prop>Ben-Hur, Władca Pierścieni: Powrót króla, Avatar</prop>
+    </q>
+    <q>
+        <txt>W jakim filmie pojawia się postać Golluma?</txt>
+        <ans>Władca Pierścieni</ans>
+        <prop>Hobbit, Opowieści z Narnii, Harry Potter</prop>
+    </q>
+    <q>
+        <txt>Kto był reżyserem filmu „Przeminęło z wiatrem”?</txt>
+        <ans>Victor Fleming</ans>
+        <prop>David O. Selznick, George Cukor, William Wyler</prop>
+    </q>
+    <q>
+        <txt>W którym filmie z serii o Jamesie Bondzie po raz pierwszy pojawiła się piosenka „Skyfall”?</txt>
+        <ans>Skyfall</ans>
+        <prop>Casino Royale, Spectre, Quantum of Solace</prop>
+    </q>
+    <q>
+        <txt>Jaki tytuł nosi film science-fiction, w którym Matthew McConaughey podróżuje przez wormhole?</txt>
+        <ans>Interstellar</ans>
+        <prop>Grawitacja, Marsjanin, Ad Astra</prop>
+    </q>
+    <q>
+        <txt>Który polski reżyser nakręcił film „Człowiek z marmuru”?</txt>
+        <ans>Andrzej Wajda</ans>
+        <prop>Krzysztof Kieślowski, Roman Polański, Jerzy Hoffman</prop>
+    </q>
+    <q>
+        <txt>Jaki film zdobył Oscara za najlepszy film w 2020 roku?</txt>
+        <ans>Parasite</ans>
+        <prop>1917, Joker, Pewnego razu w Hollywood</prop>
+    </q>
+    <q>
+        <txt>W jakim filmie animowanym występują postacie Elsa i Anna?</txt>
+        <ans>Kraina lodu</ans>
+        <prop>Zaplątani, Vaiana, Ralph Demolka</prop>
+    </q>
+    <q>
+        <txt>Kto napisał scenariusz do filmu „Forrest Gump”?</txt>
+        <ans>Eric Roth</ans>
+        <prop>Robert Zemeckis, William Goldman, Aaron Sorkin</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się słynny film noir z 1942 roku, w którym grają Humphrey Bogart i Ingrid Bergman?</txt>
+        <ans>Casablanca</ans>
+        <prop>Maltański sokół, Podwójne ubezpieczenie, Obcy na mojej ziemi</prop>
+    </q>
+</questions>

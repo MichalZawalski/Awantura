@@ -1,0 +1,102 @@
+<questions>
+    <q>
+        <txt>Jak nazywa się stolica Włoch?</txt>
+        <ans>Rzym</ans>
+        <prop>Wenecja, Mediolan, Florencja</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się najwyższy szczyt świata?</txt>
+        <ans>Mount Everest</ans>
+        <prop>K2, Kilimandżaro, Aconcagua</prop>
+    </q>
+    <q>
+        <txt>Przez które państwa przepływa rzeka Dunaj?</txt>
+        <ans>Austria, Niemcy, Węgry</ans>
+        <prop>Słowacja, Włochy, Polska</prop>
+    </q>
+    <q>
+        <txt>Jakie jest największe jezioro na świecie pod względem powierzchni?</txt>
+        <ans>Morze Kaspijskie</ans>
+        <prop>Jezioro Wiktorii, Bajkał, Górne</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się ocean znajdujący się na zachód od Afryki?</txt>
+        <ans>Ocean Atlantycki</ans>
+        <prop>Ocean Spokojny, Ocean Indyjski, Ocean Arktyczny</prop>
+    </q>
+    <q>
+        <txt>Jakie miasto jest stolicą Kanady?</txt>
+        <ans>Ottawa</ans>
+        <prop>Toronto, Vancouver, Montreal</prop>
+    </q>
+    <q>
+        <txt>W którym kraju znajduje się Wielki Kanion Kolorado?</txt>
+        <ans>Stany Zjednoczone</ans>
+        <prop>Meksyk, Kanada, Brazylia</prop>
+    </q>
+    <q>
+        <txt>Jakie pasmo górskie przebiega przez Nepal?</txt>
+        <ans>Himalaje</ans>
+        <prop>Karakorum, Andy, Alpy</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się największa wyspa świata?</txt>
+        <ans>Grenlandia</ans>
+        <prop>Borneo, Nowa Gwinea, Madagaskar</prop>
+    </q>
+    <q>
+        <txt>Jakie miasto jest nazywane "Miastem aniołów"?</txt>
+        <ans>Los Angeles</ans>
+        <prop>Bangkok, Meksyk, Rio de Janeiro</prop>
+    </q>
+    <q>
+        <txt>W którym kraju leży Pustynia Gobi?</txt>
+        <ans>Mongolia</ans>
+        <prop>Chiny, Indie, Rosja</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się najdłuższa rzeka w Polsce?</txt>
+        <ans>Wisła</ans>
+        <prop>Odra, Warta, Narew</prop>
+    </q>
+    <q>
+        <txt>W którym mieście znajduje się słynna opera o nazwie Sydney Opera House?</txt>
+        <ans>Sydney</ans>
+        <prop>Melbourne, Canberra, Perth</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się strefa klimatyczna występująca w rejonie równika?</txt>
+        <ans>Równikowa</ans>
+        <prop>Zwrotnikowa, Umiarkowana, Polarna</prop>
+    </q>
+    <q>
+        <txt>Na którym kontynencie leży pustynia Sahara?</txt>
+        <ans>Africa</ans>
+        <prop>Australia, Ameryka Południowa, Azja</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się najwyższy szczyt Polski?</txt>
+        <ans>Rysy</ans>
+        <prop>Giewont, Kasprowy Wierch, Babia Góra</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się morze otaczające Włochy od wschodu?</txt>
+        <ans>Morze Adriatyckie</ans>
+        <prop>Morze Tyrreńskie, Morze Śródziemne, Morze Egejskie</prop>
+    </q>
+    <q>
+        <txt>Jakie państwo ma największą powierzchnię na świecie?</txt>
+        <ans>Rosja</ans>
+        <prop>Kanada, Chiny, USA</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się największy park narodowy w Polsce?</txt>
+        <ans>Biebrzański Park Narodowy</ans>
+        <prop>Kampinoski Park Narodowy, Tatrzański Park Narodowy, Wigierski Park Narodowy</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się zatoka otaczająca Indie od zachodu?</txt>
+        <ans>Zatoka Arabska</ans>
+        <prop>Zatoka Bengalska, Zatoka Perska, Zatoka Tajlandzka</prop>
+    </q>
+</questions>

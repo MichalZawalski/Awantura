@@ -1,0 +1,106 @@
+<questions>
+    <q>
+        <txt>Jak nazywa się największy narząd w ciele człowieka pod względem masy?</txt>
+        <ans>Wątroba</ans>
+        <prop>Serce, Mózg, Płuca</prop>
+    </q>
+    <q>
+        <txt>Jaką strukturę w komórce nazywamy "centrum energetycznym" ze względu na produkcję ATP?</txt>
+        <ans>Mitochondrium</ans>
+        <prop>Jądro komórkowe, Aparat Golgiego, Retikulum endoplazmatyczne</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się proces, w którym rośliny przekształcają dwutlenek węgla i wodę w glukozę i tlen, korzystając
+            z energii słonecznej?
+        </txt>
+        <ans>Fotosynteza</ans>
+        <prop>Oddychanie komórkowe, Fermentacja, Chemosynteza</prop>
+    </q>
+    <q>
+        <txt>Jakie białko odpowiada za transport tlenu we krwi?</txt>
+        <ans>Hemoglobina</ans>
+        <prop>Mioglobina, Keratyna, Albumina</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się podstawowa jednostka dziedziczna w organizmach żywych?</txt>
+        <ans>Gen</ans>
+        <prop>Chromosom, Nukleotyd, Allel</prop>
+    </q>
+    <q>
+        <txt>Jakie drzewo jest uznawane za najstarsze żyjące organizmy na Ziemi?</txt>
+        <ans>Sosna długowieczna</ans>
+        <prop>Sekwoja, Baobab, Cyprys</prop>
+    </q>
+    <q>
+        <txt>Jaki rodzaj organizmów jest odpowiedzialny za fermentację w produkcji chleba i alkoholu?</txt>
+        <ans>Drożdże</ans>
+        <prop>Bakterie, Wirusy, Pleśnie</prop>
+    </q>
+    <q>
+        <txt>Jaki układ w organizmie człowieka odpowiada za obronę przed infekcjami?</txt>
+        <ans>Układ odpornościowy</ans>
+        <prop>Układ nerwowy, Układ krążenia, Układ wydalniczy</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się nauka o grzybach?</txt>
+        <ans>Mykologia</ans>
+        <prop>Zoologia, Botaniką, Ekologia</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się proces, w którym komórka dzieli się na dwie identyczne komórki potomne?</txt>
+        <ans>Mitoza</ans>
+        <prop>Mejoza, Apoptoza, Endocytoza</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się najdłuższa kość w ciele człowieka?</txt>
+        <ans>Kość udowa</ans>
+        <prop>Kość ramienna, Kość piszczelowa, Kość strzałkowa</prop>
+    </q>
+    <q>
+        <txt>Jaki jest główny składnik ściany komórkowej roślin?</txt>
+        <ans>Celuloza</ans>
+        <prop>Lignina, Pektyny, Chityna</prop>
+    </q>
+    <q>
+        <txt>Jakie ryby mają zdolność oddychania tlenem atmosferycznym dzięki płucom?</txt>
+        <ans>Ryby dwudyszne</ans>
+        <prop>Rekiny, Płaszczki, Łososie</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się proces utraty wody przez rośliny, który odbywa się przez aparaty szparkowe?</txt>
+        <ans>Transpiracja</ans>
+        <prop>Osmoregulacja, Fotosynteza, Dyfuzja</prop>
+    </q>
+    <q>
+        <txt>Jakie zwierzęta należą do gromady ssaków jajorodnych?</txt>
+        <ans>Dziobaki</ans>
+        <prop>Wydry, Bobry, Pandy</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się hormon regulujący poziom cukru we krwi, produkowany przez trzustkę?</txt>
+        <ans>Insulina</ans>
+        <prop>Adrenalina, Kortyzol, Glukagon</prop>
+    </q>
+    <q>
+        <txt>Jak nazywamy symbiotyczne grzyby, które żyją w korzeniach roślin, pomagając w pobieraniu składników
+            odżywczych?
+        </txt>
+        <ans>Mykoryza</ans>
+        <prop>Grzybnia, Porosty, Plecha</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się organizm, który w łańcuchu pokarmowym zajmuje pozycję producenta?</txt>
+        <ans>Roślina</ans>
+        <prop>Zwierzę roślinożerne, Zwierzę drapieżne, Grzyb</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się proces wymiany gazowej u ryb zachodzący w skrzelach?</txt>
+        <ans>Dyfuzja</ans>
+        <prop>Filtracja, Osmoregulacja, Wchłanianie</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się układ w ciele człowieka odpowiedzialny za produkcję hormonów?</txt>
+        <ans>Układ hormonalny</ans>
+        <prop>Układ nerwowy, Układ krążenia, Układ wydalniczy</prop>
+    </q>
+</questions>

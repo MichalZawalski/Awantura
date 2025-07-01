@@ -1,0 +1,98 @@
+<questions>
+    <q>
+        <txt>Autor słów "Być albo nie być – oto jest pytanie" to:</txt>
+        <ans>William Shakespeare.</ans>
+        <prop>Johann Wolfgang Goethe., Miguel de Cervantes., Dante Alighieri.</prop>
+    </q>
+    <q>
+        <txt>Jakie zwierzę pojawia się w przysłowiu: "Nie dziel skóry na..."?</txt>
+        <ans>...niedźwiedziu.</ans>
+        <prop>...lwie., ...tygrysie., ...wilku.</prop>
+    </q>
+    <q>
+        <txt>Przysłowie "Gdzie dwóch się bije..." kończy się słowami:</txt>
+        <ans>...tam trzeci korzysta.</ans>
+        <prop>...tam jest hałas., ...tam wszyscy tracą., ...tam powstaje chaos.</prop>
+    </q>
+    <q>
+        <txt>Kto wypowiedział słowa "Wiem, że nic nie wiem"?</txt>
+        <ans>Sokrates.</ans>
+        <prop>Platon., Arystoteles., Epikur.</prop>
+    </q>
+    <q>
+        <txt>Jak brzmi przysłowie związane z pogodą: "W marcu jak w garncu"?</txt>
+        <ans>W marcu jak w garncu.</ans>
+        <prop>W marcu wszystko zamarza., W marcu niech wieje wiatr., W marcu pada śnieg i deszcz.</prop>
+    </q>
+    <q>
+        <txt>Jaką barwę ma owca w przysłowiu oznaczającym kogoś odstającego od grupy?</txt>
+        <ans>Czarną.</ans>
+        <prop>Białą., Siwą., Czerwoną.</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem cytatu: "Nie ma rzeczy niemożliwych"?</txt>
+        <ans>Napoleon Bonaparte.</ans>
+        <prop>Winston Churchill., Albert Einstein., Kartezjusz.</prop>
+    </q>
+    <q>
+        <txt>Jakie drzewo występuje w przysłowiu: "Jak Kuba Bogu, tak Bóg..."?</txt>
+        <ans>...sobie.</ans>
+        <prop>...róży., ...oliwce., ...klonowi.</prop>
+    </q>
+    <q>
+        <txt>Które przysłowie mówi o oszczędzaniu na starość?</txt>
+        <ans>Z grosza w grosz uzbiera się trzos.</ans>
+        <prop>Kto rano wstaje, temu Pan Bóg daje., Nie mów hop, póki nie przeskoczysz., Co zasiejesz, to zbierzesz.
+        </prop>
+    </q>
+    <q>
+        <txt>Jaką czynność należy zrobić "żeby było co wspominać" według znanego cytatu?</txt>
+        <ans>Żyć.</ans>
+        <prop>Marzyć., Walczyć., Pisać.</prop>
+    </q>
+    <q>
+        <txt>Kto powiedział: "Dajcie mi punkt podparcia, a poruszę Ziemię"?</txt>
+        <ans>Archimedes.</ans>
+        <prop>Leonardo da Vinci., Tales z Miletu., Pitagoras.</prop>
+    </q>
+    <q>
+        <txt>Przysłowie "Co za dużo..." kończy się słowami:</txt>
+        <ans>...to niezdrowo.</ans>
+        <prop>...to się nudzi., ...to szkodzi., ...to nikomu nie służy.</prop>
+    </q>
+    <q>
+        <txt>Który miesiąc jest w przysłowiu: "Wszystko psuje..."?</txt>
+        <ans>Grudzień.</ans>
+        <prop>Maj., Listopad., Październik.</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem słów: "Ludzie ludziom zgotowali ten los"?</txt>
+        <ans>Zofia Nałkowska.</ans>
+        <prop>Maria Dąbrowska., Wisława Szymborska., Tadeusz Różewicz.</prop>
+    </q>
+    <q>
+        <txt>Jakie słowo kończy przysłowie: "Nie chwal dnia..."?</txt>
+        <ans>...przed zachodem słońca.</ans>
+        <prop>...zanim wzejdzie., ...póki nie minie., ...bez potrzeby.</prop>
+    </q>
+    <q>
+        <txt>Jakie zwierzę jest w przysłowiu: "Lepszy wróbel w garści..."?</txt>
+        <ans>...niż gołąb na dachu.</ans>
+        <prop>...niż orzeł na niebie., ...niż pies w budzie., ...niż kot na płocie.</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem cytatu: "Czas to pieniądz"?</txt>
+        <ans>Benjamin Franklin.</ans>
+        <prop>Adam Smith., Thomas Jefferson., Abraham Lincoln.</prop>
+    </q>
+    <q>
+        <txt>Przysłowie "Kuj żelazo, póki..." kończy się słowami:</txt>
+        <ans>...gorące.</ans>
+        <prop>...się nie przełamie., ...mocne., ...czas pozwala.</prop>
+    </q>
+    <q>
+        <txt>Kto powiedział: "Myślę, więc jestem"?</txt>
+        <ans>Kartezjusz.</ans>
+        <prop>Francis Bacon., Immanuel Kant., David Hume.</prop>
+    </q>
+</questions>

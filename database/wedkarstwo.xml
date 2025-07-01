@@ -1,0 +1,110 @@
+<questions>
+    <q>
+        <txt>Jak nazywa się ryba słodkowodna, która charakteryzuje się długim, wąskim ciałem i występuje często w
+            rzekach Europy?
+        </txt>
+        <ans>Węgorz</ans>
+        <prop>Szczupak, Sandacz, Karaś</prop>
+    </q>
+    <q>
+        <txt>Jaka metoda wędkarska polega na łowieniu ryb za pomocą sztucznej przynęty przypominającej owady lub małe
+            ryby?
+        </txt>
+        <ans>Metoda spinningowa</ans>
+        <prop>Metoda gruntowa, Metoda spławikowa, Połów na żywca</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się element wędki, na którym mocuje się żyłkę?</txt>
+        <ans>Kołowrotek</ans>
+        <prop>Haczyk, Spławik, Przynęta</prop>
+    </q>
+    <q>
+        <txt>Która ryba jest symbolem polskich wód i ma charakterystyczny wąsik przy pysku?</txt>
+        <ans>Karp</ans>
+        <prop>Sum, Leszcz, Pstrąg</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się sztuczna przynęta, która wykonana jest z włosia, piór lub tworzyw sztucznych, stosowana
+            głównie w wędkarstwie muchowym?
+        </txt>
+        <ans>Mucha</ans>
+        <prop>Wobler, Twister, Blaszka</prop>
+    </q>
+    <q>
+        <txt>Który okres roku jest najczęściej uznawany za najlepszy na połowy szczupaka?</txt>
+        <ans>Wiosna</ans>
+        <prop>Lato, Jesień, Zima</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się przenośny pojemnik służący do przechowywania złowionych ryb w wodzie?</txt>
+        <ans>Siatka wędkarska</ans>
+        <prop>Wiadro, Koszyk, Podbierak</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się największa ryba słodkowodna żyjąca w polskich wodach?</txt>
+        <ans>Sum</ans>
+        <prop>Szczupak, Sandacz, Karp</prop>
+    </q>
+    <q>
+        <txt>Który z typów wędzisk jest używany najczęściej w metodzie spławikowej?</txt>
+        <ans>Bat</ans>
+        <prop>Spinning, Feeder, Karpiówka</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się zjawisko, w którym ryby grupowo przystępują do rozrodu?</txt>
+        <ans>Tarło</ans>
+        <prop>Migracja, Żerowanie, Rozwój</prop>
+    </q>
+    <q>
+        <txt>Jaka jest maksymalna długość szczupaka, którą mogą osiągać największe osobniki?</txt>
+        <ans>Około 150 cm</ans>
+        <prop>90 cm, 200 cm, 120 cm</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się przyrząd używany do ważenia złowionych ryb?</txt>
+        <ans>Waga wędkarska</ans>
+        <prop>Podbierak, Chwytak, Miarka</prop>
+    </q>
+    <q>
+        <txt>Który gatunek ryb jest najczęściej łowiony przy użyciu kukurydzy jako przynęty?</txt>
+        <ans>Karp</ans>
+        <prop>Leszcz, Pstrąg, Sum</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się urządzenie pozwalające określić głębokość wody i położenie ryb?</txt>
+        <ans>Echosonda</ans>
+        <prop>Kompas, Kołowrotek, Podbierak</prop>
+    </q>
+    <q>
+        <txt>Jaka metoda połowu jest zakazana na terenie Polski i polega na wykorzystaniu materiałów wybuchowych?</txt>
+        <ans>Kłusownictwo</ans>
+        <prop>Połów na żywca, Metoda muchowa, Metoda gruntowa</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się ryba, która ma charakterystyczne różowe plamki na bokach ciała i często żyje w górskich
+            potokach?
+        </txt>
+        <ans>Pstrąg</ans>
+        <prop>Lipień, Sandacz, Leszcz</prop>
+    </q>
+    <q>
+        <txt>Jaki kolor najczęściej mają przynęty używane w zamulonych wodach, aby były bardziej widoczne?</txt>
+        <ans>Jaskrawy</ans>
+        <prop>Ciemny, Przezroczysty, Niebieski</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się specjalny haczyk, który zapobiega głębokiemu połknięciu przynęty przez rybę?</txt>
+        <ans>Haczyk bezzadziorowy</ans>
+        <prop>Kotwiczka, Krętlik, Haczyk trójramienny</prop>
+    </q>
+    <q>
+        <txt>W jakim celu wędkarze używają zanęty?</txt>
+        <ans>Aby przyciągnąć ryby</ans>
+        <prop>Aby zwiększyć widoczność w wodzie, Aby zahamować ruch wody, Aby odstraszyć drapieżniki</prop>
+    </q>
+    <q>
+        <txt>Jaka ryba, często poławiana w Polsce, nazywana jest "królową rzek"?</txt>
+        <ans>Troć</ans>
+        <prop>Pstrąg, Szczupak, Sandacz</prop>
+    </q>
+</questions>

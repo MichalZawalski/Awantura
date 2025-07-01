@@ -1,0 +1,123 @@
+<questions>
+    <q>
+        <txt>Który rok został uznany za przełomowy w zakresie globalnej walki ze zmianami klimatycznymi, gdy ponad 190
+            krajów podpisało porozumienie paryskie?
+        </txt>
+        <ans>2015</ans>
+        <prop>2010, 2020, 2012</prop>
+    </q>
+    <q>
+        <txt>Jaki kryptonim nosił operacja, w wyniku której w maju 2011 roku został zabity przywódca Al-Kaidy, Osama bin
+            Laden?
+        </txt>
+        <ans>Neptune Spear</ans>
+        <prop>Red Storm, Black Eagle, Iron Shield</prop>
+    </q>
+    <q>
+        <txt>Który rosyjski opozycjonista został otruty i poddany wieloletniemu leczeniu po próbie zabójstwa w sierpniu
+            2020 roku?
+        </txt>
+        <ans>Aleksiej Nawalny</ans>
+        <prop>Boris Niemcow, Grigorij Jawliński, Siergiej Ławrow</prop>
+    </q>
+    <q>
+        <txt>Która firma jako pierwsza wystrzelała cywilnych turystów w kosmos, wykorzystując własną rakietę?</txt>
+        <ans>Blue Origin</ans>
+        <prop>SpaceX, Virgin Galactic, NASA</prop>
+    </q>
+    <q>
+        <txt>W którym roku rozpoczęła się pandemia COVID-19, oficjalnie ogłoszona przez Światową Organizację Zdrowia?
+        </txt>
+        <ans>2020</ans>
+        <prop>2019, 2021, 2018</prop>
+    </q>
+    <q>
+        <txt>Która chińska firma telekomunikacyjna stała się w ostatnich latach przedmiotem międzynarodowych sporów
+            handlowych i bezpieczeństwa?
+        </txt>
+        <ans>Huawei</ans>
+        <prop>ZTE, Lenovo, Alibaba</prop>
+    </q>
+    <q>
+        <txt>Który kraj jako pierwszy oficjalnie zalegalizował bitcoina jako prawny środek płatniczy w 2021 roku?</txt>
+        <ans>Salwador</ans>
+        <prop>Argentyna, Malta, Luksemburg</prop>
+    </q>
+    <q>
+        <txt>Który rosyjski prezydent rozpoczął wojnę przeciwko Ukrainie w lutym 2022 roku?</txt>
+        <ans>Władimir Putin</ans>
+        <prop>Dmitrij Miedwiediew, Siergiej Ławrow, Nikołaj Patruszew</prop>
+    </q>
+    <q>
+        <txt>Który sukcesor Steve'a Jobsa został CEO Apple w 2011 roku?</txt>
+        <ans>Tim Cook</ans>
+        <prop>Steve Wozniak, Phil Schiller, Jeff Williams</prop>
+    </q>
+    <q>
+        <txt>Która aktywistka z Norwegii została nagrodzona Pokojową Nagrodą Nobla w 2021 roku za walkę przeciwko
+            wyzyskowi dzieci?
+        </txt>
+        <ans>Malala Yousafzai</ans>
+        <prop>Greta Thunberg, Bożena Łybacka, Emma Watson</prop>
+    </q>
+    <q>
+        <txt>Który router sieci społecznościowej stał się symbolem globalnej komunikacji i dezinformacji w XXI wieku?
+        </txt>
+        <ans>Twitter</ans>
+        <prop>Facebook, Instagram, LinkedIn</prop>
+    </q>
+    <q>
+        <txt>Która córka miliardera z RPA jest twórcą najpopularniejszej na świecie prywatnej firmy kosmicznej?</txt>
+        <ans>Elon Musk</ans>
+        <prop>Jeff Bezos, Richard Branson, Mark Zuckerberg</prop>
+    </q>
+    <q>
+        <txt>Który kontynent jest najbardziej narażony na konsekwencje zmian klimatycznych w postaci podnoszącego się
+            poziomu morza?
+        </txt>
+        <ans>Afryka</ans>
+        <prop>Australia, Europa, Ameryka Południowa</prop>
+    </q>
+    <q>
+        <txt>Która kobieta jako pierwsza została wybrana na wiceprezydenta Stanów Zjednoczonych?</txt>
+        <ans>Kamala Harris</ans>
+        <prop>Hillary Clinton, Nancy Pelosi, Alexandria Ocasio-Cortez</prop>
+    </q>
+    <q>
+        <txt>Który chiński region był miejscem protestów przeciwko ograniczeniom wolności w 2019 i 2020 roku?</txt>
+        <ans>Hongkong</ans>
+        <prop>Tajwan, Tybet, Sinciang</prop>
+    </q>
+    <q>
+        <txt>Który składnik technologiczny rewolucjonizuje sztuczną inteligencję, umożliwiając jej generowanie tekstu,
+            obrazów i rozwiązań?
+        </txt>
+        <ans>Model transformerowy</ans>
+        <prop>Sieć neuronowa, Algorytm genetyczny, Sieć bayesowska</prop>
+    </q>
+    <q>
+        <txt>Który szczep koronawirusa wywołał globalną panikę pod koniec 2021 i na początku 2022 roku?</txt>
+        <ans>Omikron</ans>
+        <prop>Delta, Beta, Gamma</prop>
+    </q>
+    <q>
+        <txt>Który kraj jako pierwszy zakazał całkowicie spalinowych samochodów osobowych?</txt>
+        <ans>Norwegia</ans>
+        <prop>Dania, Holandia, Niemcy</prop>
+    </q>
+    <q>
+        <txt>Która firma technologiczna kupiła platformę komunikacyjną Discord za 15 miliardów dolarów?</txt>
+        <ans>Żadna</ans>
+        <prop>Microsoft, Google, Apple</prop>
+    </q>
+    <q>
+        <txt>Który rosyjski opozycyjny dziennikarz został zamordowany w 2015 roku w centrum Moskwy?</txt>
+        <ans>Boris Niemcow</ans>
+        <prop>Dmitrij Muratow, Anna Politkowska, Arkadij Babczenko</prop>
+    </q>
+    <q>
+        <txt>Która wielka korporacja technologiczna zmieniła swoją nazwę w 2021 roku na Meta?</txt>
+        <ans>Facebook</ans>
+        <prop>Google, Apple, Microsoft</prop>
+    </q>
+</questions>

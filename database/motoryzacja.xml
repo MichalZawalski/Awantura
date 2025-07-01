@@ -1,0 +1,107 @@
+<questions>
+    <q>
+        <txt>Który konstruktor samochodowy jest twórcą słynnego modelu Ford T?</txt>
+        <ans>Henry Ford</ans>
+        <prop>Karl Benz, Gottlieb Daimler, Enzo Ferrari</prop>
+    </q>
+    <q>
+        <txt>W którym roku wprowadzono pierwszy seryjny samochód hybrydowy Toyota Prius?</txt>
+        <ans>1997</ans>
+        <prop>1995, 1999, 2001</prop>
+    </q>
+    <q>
+        <txt>Jaką maksymalną prędkość osiąga najszybszy seryjny samochód świata Bugatti Chiron Super Sport 300+?</txt>
+        <ans>490 km/h</ans>
+        <prop>450 km/h, 470 km/h, 510 km/h</prop>
+    </q>
+    <q>
+        <txt>Który kraj jest kolebką rajdowych samochodowych mistrzostw świata WRC?</txt>
+        <ans>Finlandia</ans>
+        <prop>Francja, Niemcy, Włochy</prop>
+    </q>
+    <q>
+        <txt>Kto jest twórcą włoskiej marki samochodowej Ferrari?</txt>
+        <ans>Enzo Ferrari</ans>
+        <prop>Ferruccio Lamborghini, Giovanni Agnelli, Bruno Giacosa</prop>
+    </q>
+    <q>
+        <txt>Ile kół napędowych posiada typowy traktor rolniczy?</txt>
+        <ans>4</ans>
+        <prop>2, 6, 8</prop>
+    </q>
+    <q>
+        <txt>Który producent jako pierwszy wprowadził elektryczny samochód osobowy na masową skalę?</txt>
+        <ans>Tesla</ans>
+        <prop>Nissan, BMW, Chevrolet</prop>
+    </q>
+    <q>
+        <txt>W jakim roku odbyły się pierwsze wyścigi Formuły 1?</txt>
+        <ans>1950</ans>
+        <prop>1948, 1952, 1947</prop>
+    </q>
+    <q>
+        <txt>Który mechanizm odpowiada za zmianę biegów w samochodzie?</txt>
+        <ans>Skrzynia biegów</ans>
+        <prop>Sprzęgło, Hamulec, Rozrusznik</prop>
+    </q>
+    <q>
+        <txt>Jaki wynalazek całkowicie zmienił transport osobowy na początku XX wieku?</txt>
+        <ans>Silnik spalinowy</ans>
+        <prop>Koło, Żagiel, Para wodna</prop>
+    </q>
+    <q>
+        <txt>W jakim kraju wyprodukowano pierwszy seryjny samochód elektryczny Nissan Leaf?</txt>
+        <ans>Japonia</ans>
+        <prop>Korea Południowa, Stany Zjednoczone, Niemcy</prop>
+    </q>
+    <q>
+        <txt>Który zespół wyścigowy zdominował mistrzostwa świata Formuły 1 w pierwszej dekadzie XXI wieku?</txt>
+        <ans>Ferrari</ans>
+        <prop>McLaren, Williams, Mercedes</prop>
+    </q>
+    <q>
+        <txt>Ile cylindrów posiada przeciętny silnik w samochodzie osobowym?</txt>
+        <ans>4</ans>
+        <prop>3, 5, 6</prop>
+    </q>
+    <q>
+        <txt>Który konstruktor jako pierwszy zastosował hamulce tarczowe w samochodach?</txt>
+        <ans>Jaguar</ans>
+        <prop>Ferrari, Mercedes, BMW</prop>
+    </q>
+    <q>
+        <txt>Który norweski producent jest pionierem w produkcji samochodów elektrycznych?</txt>
+        <ans>Think</ans>
+        <prop>Volvo, Saab, Koenigsegg</prop>
+    </q>
+    <q>
+        <txt>W którym roku wprowadzono katalityczny konwerter spalin?</txt>
+        <ans>1975</ans>
+        <prop>1970, 1980, 1965</prop>
+    </q>
+    <q>
+        <txt>Który włoski producent jest znany z luksusowych samochodów sportowych?</txt>
+        <ans>Lamborghini</ans>
+        <prop>Alfa Romeo, Maserati, Ferrari</prop>
+    </q>
+    <q>
+        <txt>Ile kół posiada standardowy motocykl?</txt>
+        <ans>2</ans>
+        <prop>3, 1, 4</prop>
+    </q>
+    <q>
+        <txt>Który konstruktor jako pierwszy wprowadził napęd na cztery koła w samochodach osobowych?</txt>
+        <ans>Audi</ans>
+        <prop>BMW, Mercedes, Porsche</prop>
+    </q>
+    <q>
+        <txt>W którym roku wprowadzono pierwszy seryjny samochód z systemem ABS?</txt>
+        <ans>1978</ans>
+        <prop>1975, 1980, 1972</prop>
+    </q>
+    <q>
+        <txt>Który amerykański producent jest twórcą elektrycznego samochodu Chevrolet Bolt?</txt>
+        <ans>General Motors</ans>
+        <prop>Ford, Chrysler, Tesla</prop>
+    </q>
+</questions>

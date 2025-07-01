@@ -1,0 +1,102 @@
+<questions>
+    <q>
+        <txt>Jaka jest poprawna forma liczby mnogiej rzeczownika "dziecko"?</txt>
+        <ans>dzieci</ans>
+        <prop>dziecka, dziecięta, dziecki</prop>
+    </q>
+    <q>
+        <txt>Jakie jest znaczenie związku frazeologicznego "wyjść na prostą"?</txt>
+        <ans>poprawić swoją sytuację życiową lub finansową</ans>
+        <prop>wyjść na ulicę, zrezygnować z czegoś, uciec od problemów</prop>
+    </q>
+    <q>
+        <txt>Co oznacza archaiczne słowo "białogłowa"?</txt>
+        <ans>kobieta</ans>
+        <prop>dziewczyna, siostra zakonna, czarownica</prop>
+    </q>
+    <q>
+        <txt>Z którego języka pochodzi słowo "karoca"?</txt>
+        <ans>z włoskiego</ans>
+        <prop>z niemieckiego, z francuskiego, z rosyjskiego</prop>
+    </q>
+    <q>
+        <txt>Jakie zwierzę jest ukryte w związku frazeologicznym "rzucać perły przed wieprze"?</txt>
+        <ans>świnia</ans>
+        <prop>koń, osioł, wilk</prop>
+    </q>
+    <q>
+        <txt>Która litera w alfabecie polskim jest najczęściej używana?</txt>
+        <ans>a</ans>
+        <prop>e, o, z</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się część mowy, która odpowiada na pytania: kto? co?</txt>
+        <ans>rzeczownik</ans>
+        <prop>czasownik, przymiotnik, przysłówek</prop>
+    </q>
+    <q>
+        <txt>Co oznacza powiedzenie "mieć muchy w nosie"?</txt>
+        <ans>być obrażonym lub rozdrażnionym</ans>
+        <prop>być szczęśliwym, mieć coś na myśli, być zdezorientowanym</prop>
+    </q>
+    <q>
+        <txt>W którym wieku ukazała się pierwsza drukowana książka w języku polskim?</txt>
+        <ans>w XVI wieku</ans>
+        <prop>w XV wieku, w XVII wieku, w XVIII wieku</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się styl językowy używany w poezji Jana Kochanowskiego?</txt>
+        <ans>styl renesansowy</ans>
+        <prop>styl barokowy, styl klasycystyczny, styl romantyczny</prop>
+    </q>
+    <q>
+        <txt>Co oznacza słowo "homonim"?</txt>
+        <ans>wyraz brzmiący tak samo, ale mający inne znaczenie</ans>
+        <prop>wyraz o podobnym znaczeniu, wyraz trudny do wymówienia, wyraz złożony z dwóch części</prop>
+    </q>
+    <q>
+        <txt>Jaki znak przestankowy umieszczamy na końcu zdania oznajmującego?</txt>
+        <ans>kropkę</ans>
+        <prop>przecinek, średnik, pytajnik</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się samogłoska nosowa w wyrazie "ręka"?</txt>
+        <ans>ę</ans>
+        <prop>ą, e, a</prop>
+    </q>
+    <q>
+        <txt>Jakie jest znaczenie słowa "maniera" w języku polskim?</txt>
+        <ans>specyficzny sposób zachowania</ans>
+        <prop>talent artystyczny, ozdoba, narzędzie</prop>
+    </q>
+    <q>
+        <txt>Jakie jest znaczenie frazeologizmu "nie wchodzić dwa razy do tej samej rzeki"?</txt>
+        <ans>nie powtarzać tych samych błędów lub sytuacji</ans>
+        <prop>nie ryzykować, unikać wody, wracać do przeszłości</prop>
+    </q>
+    <q>
+        <txt>Co oznacza słowo "traktat" w literaturze?</txt>
+        <ans>obszerny, naukowy lub filozoficzny wywód</ans>
+        <prop>wiersz, list, dramat</prop>
+    </q>
+    <q>
+        <txt>W jakiej formie gramatycznej występuje wyraz "biegnąc"?</txt>
+        <ans>imiesłów przysłówkowy współczesny</ans>
+        <prop>imiesłów przymiotnikowy czynny, bezokolicznik, czas teraźniejszy</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się główna bohaterka powieści Henryka Sienkiewicza "Quo vadis"?</txt>
+        <ans>Ligia</ans>
+        <prop>Helena, Jadwiga, Anna</prop>
+    </q>
+    <q>
+        <txt>Jakiego przypadku używamy po przyimku "z"?</txt>
+        <ans>dopełniacza</ans>
+        <prop>mianownika, biernika, celownika</prop>
+    </q>
+    <q>
+        <txt>Co oznacza słowo "oksymoron"?</txt>
+        <ans>zestawienie wyrazów o przeciwstawnych znaczeniach</ans>
+        <prop>wyraz o wieloznacznym charakterze, figura stylistyczna oparta na powtórzeniach, przesadę w opisie</prop>
+    </q>
+</questions>

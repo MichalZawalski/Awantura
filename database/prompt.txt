@@ -1,0 +1,11 @@
+# Zadanie
+
+Chciałbym żebyś zaproponował mi 20 teleturniejowych pytań z kategorii "anatomia i medycyna". Zacznij od tego, żeby wypisać kilka różnorodnych tematów związanych z tą kategorią. Następnie wypisz pytania. Zadbaj o różnorodność pytań.
+Do każdego pytania podaj poprawną odpowiedź, a także trzy dodatkowe warianty, na wypadek gdyby uczestnik poprosił o podpowiedź w formie 4 wariantów. Treść pytania musi pozwalać na udzielenie odpowiedzi bez znajomości tych wariantów. W szczególności, pytanie nie może zawierać sformułowań typu "która z wymienionych rzeczy". Uczestnik zawsze musi mieć możliwość udzielenia poprawnej odpowiedzi wyłącznie na podstawie treści pytania.
+
+# Format
+
+Każde pytanie powinno być umieszczone w tagu <q>. Wewnątrz tagu <q> powinny znaleźć się trzy tagi:
+- <txt> zawierający treść pytania,
+- <ans> zawierający poprawną odpowiedź,
+- <prop> zawierający trzy dodatkowe warianty odpowiedzi.

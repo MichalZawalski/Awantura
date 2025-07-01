@@ -1,0 +1,102 @@
+<questions>
+    <q>
+        <txt>Jaki aktor wcielał się w rolę Waltera White'a w serialu "Breaking Bad"?</txt>
+        <ans>Bryan Cranston</ans>
+        <prop>Matthew McConaughey, Aaron Paul, Jon Hamm</prop>
+    </q>
+    <q>
+        <txt>W którym mieście rozgrywa się akcja serialu "Friends"?</txt>
+        <ans>Nowy Jork</ans>
+        <prop>Los Angeles, Chicago, San Francisco</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się główny bohater serialu "Doktor Who"?</txt>
+        <ans>Doktor</ans>
+        <prop>Kapitan Jack, Profesor X, Pan Czasu</prop>
+    </q>
+    <q>
+        <txt>Który serial ma czołówkę z utworem "I'll Be There for You"?</txt>
+        <ans>Friends</ans>
+        <prop>The Office, How I Met Your Mother, Two and a Half Men</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się królowa smoków w serialu "Gra o Tron"?</txt>
+        <ans>Daenerys Targaryen</ans>
+        <prop>Cersei Lannister, Arya Stark, Ygritte</prop>
+    </q>
+    <q>
+        <txt>W którym roku wyemitowano pierwszy odcinek serialu "Twin Peaks"?</txt>
+        <ans>1990</ans>
+        <prop>1989, 1991, 1992</prop>
+    </q>
+    <q>
+        <txt>Jak nazywał się spin-off serialu "Breaking Bad"?</txt>
+        <ans>Better Call Saul</ans>
+        <prop>El Camino, Saul Goodman, Gus Fring</prop>
+    </q>
+    <q>
+        <txt>Jaka jest profesja głównego bohatera serialu "Dexter"?</txt>
+        <ans>Specjalista ds. analizy krwi</ans>
+        <prop>Detektyw, Nauczyciel, Pisarz</prop>
+    </q>
+    <q>
+        <txt>Kto jest twórcą serialu "Miasteczko Twin Peaks"?</txt>
+        <ans>David Lynch</ans>
+        <prop>Steven Spielberg, David Fincher, Quentin Tarantino</prop>
+    </q>
+    <q>
+        <txt>W którym serialu występuje postać o nazwisku Michael Scott?</txt>
+        <ans>The Office</ans>
+        <prop>Parks and Recreation, Scrubs, Modern Family</prop>
+    </q>
+    <q>
+        <txt>Jak nazywał się najstarszy syn rodziny Simpsonów w serialu "Simpsonowie"?</txt>
+        <ans>Bart Simpson</ans>
+        <prop>Homer Simpson, Lisa Simpson, Maggie Simpson</prop>
+    </q>
+    <q>
+        <txt>W którym serialu pojawia się postać Heisenberg?</txt>
+        <ans>Breaking Bad</ans>
+        <prop>Narcos, The Wire, Fargo</prop>
+    </q>
+    <q>
+        <txt>Który serial animowany opowiada o życiu rodziny Griffin?</txt>
+        <ans>Family Guy</ans>
+        <prop>American Dad, Simpsonowie, South Park</prop>
+    </q>
+    <q>
+        <txt>Jaki polski serial przedstawia losy rodziny Mostowiaków?</txt>
+        <ans>M jak miłość</ans>
+        <prop>Na dobre i na złe, Barwy szczęścia, Klan</prop>
+    </q>
+    <q>
+        <txt>W którym serialu bohaterowie podróżują przez siedem królestw?</txt>
+        <ans>Gra o Tron</ans>
+        <prop>Wikingowie, Westworld, Wiedźmin</prop>
+    </q>
+    <q>
+        <txt>W jakim gatunku serialowym specjalizuje się Ryan Murphy?</txt>
+        <ans>Horror</ans>
+        <prop>Komedia, Thriller, Science fiction</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się władca Springfield w serialu "Simpsonowie"?</txt>
+        <ans>Mr. Burns</ans>
+        <prop>Barney Gumble, Moe Szyslak, Ned Flanders</prop>
+    </q>
+    <q>
+        <txt>Jaki pseudonim przyjmuje główny bohater serialu "House of Cards"?</txt>
+        <ans>Frank Underwood</ans>
+        <prop>Jack Shepherd, Tony Soprano, Walter White</prop>
+    </q>
+    <q>
+        <txt>W którym serialu występuje postać Eleven?</txt>
+        <ans>Stranger Things</ans>
+        <prop>The OA, Dark, Westworld</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się statek kosmiczny w serialu "Star Trek"?</txt>
+        <ans>USS Enterprise</ans>
+        <prop>Millennium Falcon, Serenity, Discovery</prop>
+    </q>
+</questions>

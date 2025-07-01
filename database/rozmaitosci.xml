@@ -1,0 +1,107 @@
+<questions>
+    <q>
+        <txt>W którym roku wynaleziono pierwszy telefon komórkowy?</txt>
+        <ans>1973</ans>
+        <prop>1965, 1980, 1988</prop>
+    </q>
+    <q>
+        <txt>Jaki jest najdłuższy łańcuch górski na świecie?</txt>
+        <ans>Andy</ans>
+        <prop>Himalaje, Alpy, Kordyliery</prop>
+    </q>
+    <q>
+        <txt>Kto wynalazł silnik parowy?</txt>
+        <ans>James Watt</ans>
+        <prop>Thomas Edison, George Stephenson, Nikola Tesla</prop>
+    </q>
+    <q>
+        <txt>Ile planet jest w naszym Układzie Słonecznym?</txt>
+        <ans>8</ans>
+        <prop>7, 9, 6</prop>
+    </q>
+    <q>
+        <txt>W którym roku upadł mur berliński?</txt>
+        <ans>1989</ans>
+        <prop>1985, 1991, 1987</prop>
+    </q>
+    <q>
+        <txt>Który kontynent jest najsuchszy?</txt>
+        <ans>Antarktyda</ans>
+        <prop>Australia, Afryka, Azja</prop>
+    </q>
+    <q>
+        <txt>Kto namalował obraz "Mona Lisa"?</txt>
+        <ans>Leonardo da Vinci</ans>
+        <prop>Michał Anioł, Rafael, Caravaggio</prop>
+    </q>
+    <q>
+        <txt>Jaki jest najszybszy ssak na świecie?</txt>
+        <ans>Gepard</ans>
+        <prop>Lampart, Wilk, Tygrys</prop>
+    </q>
+    <q>
+        <txt>W którym roku wynaleziono World Wide Web?</txt>
+        <ans>1989</ans>
+        <prop>1985, 1991, 1993</prop>
+    </q>
+    <q>
+        <txt>Jaka jest najgłębsza przepaść oceaniczna?</txt>
+        <ans>Rów Mariański</ans>
+        <prop>Rów Tonga, Rów Kermadec, Rów Porto Rico</prop>
+    </q>
+    <q>
+        <txt>Który pierwiastek chemiczny ma symbol Au?</txt>
+        <ans>Złoto</ans>
+        <prop>Srebro, Aluminium, Arsen</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem powieści "Mistrz i Małgorzata"?</txt>
+        <ans>Michaił Bułhakow</ans>
+        <prop>Anton Czechow, Fiodor Dostojewski, Lew Tołstoj</prop>
+    </q>
+    <q>
+        <txt>Ile wynosi przyspieszenie grawitacyjne na Ziemi?</txt>
+        <ans>9,81 m/s²</ans>
+        <prop>8,5 m/s², 10,2 m/s², 9,5 m/s²</prop>
+    </q>
+    <q>
+        <txt>Który kraj jest największy pod względem powierzchni?</txt>
+        <ans>Rosja</ans>
+        <prop>Kanada, Chiny, Stany Zjednoczone</prop>
+    </q>
+    <q>
+        <txt>Kto wynalazł żarówkę?</txt>
+        <ans>Thomas Edison</ans>
+        <prop>Nikola Tesla, Alexander Graham Bell, James Watt</prop>
+    </q>
+    <q>
+        <txt>Jaki jest najstarszy znany instrument muzyczny?</txt>
+        <ans>Flet</ans>
+        <prop>Bęben, Harfa, Lira</prop>
+    </q>
+    <q>
+        <txt>W którym roku miała miejsce rewolucja przemysłowa w Anglii?</txt>
+        <ans>1760</ans>
+        <prop>1720, 1800, 1650</prop>
+    </q>
+    <q>
+        <txt>Który z oceanów jest największy?</txt>
+        <ans>Pacyficzny</ans>
+        <prop>Atlantycki, Indyjski, Arktyczny</prop>
+    </q>
+    <q>
+        <txt>Kto napisał "Trylogię"?</txt>
+        <ans>Henryk Sienkiewicz</ans>
+        <prop>Adam Mickiewicz, Bolesław Prus, Juliusz Słowacki</prop>
+    </q>
+    <q>
+        <txt>Jaki jest najcięższy kontynent?</txt>
+        <ans>Antarktyda</ans>
+        <prop>Afryka, Ameryka Północna, Australia</prop>
+    </q>
+    <q>
+        <txt>Kto pierwszy wylądował na Księżycu?</txt>
+        <ans>Neil Armstrong</ans>
+        <prop>Buzz Aldrin, Jurij Gagarin, John Glenn</prop>
+    </q>
+</questions>

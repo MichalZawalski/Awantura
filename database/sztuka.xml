@@ -1,0 +1,111 @@
+<questions>
+    <q>
+        <txt>Który artysta namalował słynny obraz "Mona Lisa"?</txt>
+        <ans>Leonardo da Vinci</ans>
+        <prop>Pablo Picasso, Vincent van Gogh, Sandro Botticelli</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się styl architektoniczny, który charakteryzuje się strzelistymi budowlami, witrażami i
+            przyporami?
+        </txt>
+        <ans>Gotyk</ans>
+        <prop>Barok, Renesans, Rokoko</prop>
+    </q>
+    <q>
+        <txt>W którym mieście znajduje się Muzeum Prado, jedno z najważniejszych muzeów sztuki na świecie?</txt>
+        <ans>Madryt</ans>
+        <prop>Paryż, Rzym, Wiedeń</prop>
+    </q>
+    <q>
+        <txt>Który artysta słynie z obrazów przedstawiających pole słoneczników?</txt>
+        <ans>Vincent van Gogh</ans>
+        <prop>Claude Monet, Édouard Manet, Paul Cézanne</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się rzeźba Michała Anioła przedstawiająca biblijnego Dawida?</txt>
+        <ans>Dawid</ans>
+        <prop>Mojżesz, Pieta, Adam</prop>
+    </q>
+    <q>
+        <txt>W którym kraju powstał teatr kabuki?</txt>
+        <ans>Japonia</ans>
+        <prop>Chiny, Indie, Korea Południowa</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się technika malarska, w której farby mieszane są z wodą i nanoszone na mokry tynk?</txt>
+        <ans>Fresk</ans>
+        <prop>Gwasz, Tempera, Akwarela</prop>
+    </q>
+    <q>
+        <txt>Który film Orsona Wellesa uważany jest za jedno z najwybitniejszych dzieł kinematografii?</txt>
+        <ans>Obywatel Kane</ans>
+        <prop>Casablanca, Północ-północny zachód, Śniadanie u Tiffany'ego</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się popularny styl malarstwa XIX wieku charakteryzujący się grą światła i koloru?</txt>
+        <ans>Impresjonizm</ans>
+        <prop>Ekspresjonizm, Surrealizm, Realizm</prop>
+    </q>
+    <q>
+        <txt>W którym mieście znajduje się katedra Sagrada Familia zaprojektowana przez Antonio Gaudíego?</txt>
+        <ans>Barcelona</ans>
+        <prop>Sewilla, Madryt, Walencja</prop>
+    </q>
+    <q>
+        <txt>Który dramatopisarz napisał "Hamleta" i "Makbeta"?</txt>
+        <ans>William Szekspir</ans>
+        <prop>Christopher Marlowe, Molière, Johann Wolfgang von Goethe</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się malarz znany z abstrakcyjnych obrazów składających się z prostokątów i linii, takich jak
+            "Kompozycja w czerwieni, błękicie i żółci"?
+        </txt>
+        <ans>Piet Mondrian</ans>
+        <prop>Kazimierz Malewicz, Wassily Kandinsky, Paul Klee</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się styl sztuki nowoczesnej, który charakteryzuje się geometrią i kubistycznymi kształtami?
+        </txt>
+        <ans>Kubizm</ans>
+        <prop>Surrealizm, Futuryzm, Impresjonizm</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się instrument muzyczny używany do strojenia orkiestry, który wchodzi w skład sekcji dętej
+            drewnianej?
+        </txt>
+        <ans>Obój</ans>
+        <prop>Flet, Klarnet, Fagot</prop>
+    </q>
+    <q>
+        <txt>W jakim muzeum można zobaczyć obraz "Narodziny Wenus" Botticellego?</txt>
+        <ans>Galeria Uffizi</ans>
+        <prop>Luwr, Prado, Rijksmuseum</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się technika fotografii, w której obrazy powstają na szklanych płytach pokrytych światłoczułym
+            materiałem?
+        </txt>
+        <ans>Ambrotypia</ans>
+        <prop>Daguerotypia, Kyanotypia, Kalotypia</prop>
+    </q>
+    <q>
+        <txt>Która rzeźbiarka znana jest z monumentalnych rzeźb takich jak "Maman" – gigantyczny pająk?</txt>
+        <ans>Louise Bourgeois</ans>
+        <prop>Barbara Hepworth, Camille Claudel, Niki de Saint Phalle</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się szkoła architektoniczna i artystyczna założona przez Waltera Gropiusa w Niemczech?</txt>
+        <ans>Bauhaus</ans>
+        <prop>De Stijl, Arts and Crafts, Secesja Wiedeńska</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem obrazu "Krzyk", jednego z najbardziej rozpoznawalnych dzieł ekspresjonizmu?</txt>
+        <ans>Edvard Munch</ans>
+        <prop>Gustav Klimt, Egon Schiele, Paul Gauguin</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się nagroda przyznawana w Cannes za najlepszy film festiwalu?</txt>
+        <ans>Złota Palma</ans>
+        <prop>Złoty Niedźwiedź, Złoty Glob, Złoty Lew</prop>
+    </q>
+</questions>

@@ -1,0 +1,107 @@
+<questions>
+    <q>
+        <txt>Który kompozytor stworzył słynną "Eroicę" - III Symfonię Es-dur?</txt>
+        <ans>Ludwig van Beethoven</ans>
+        <prop>Wolfgang Amadeus Mozart, Johannes Brahms, Franz Schubert</prop>
+    </q>
+    <q>
+        <txt>Jakiego instrumentu używa się do gry w orkiestrze symfonicznej, trzymając go pionowo między kolanami?</txt>
+        <ans>Wiolonczela</ans>
+        <prop>Skrzypce, Altówka, Kontrabas</prop>
+    </q>
+    <q>
+        <txt>Który włoski kompozytor operowy stworzył dzieła takie jak "Tosca" i "Madame Butterfly"?</txt>
+        <ans>Giacomo Puccini</ans>
+        <prop>Giuseppe Verdi, Gioachino Rossini, Pietro Mascagni</prop>
+    </q>
+    <q>
+        <txt>W jakim wieku Mozart napisał swoją pierwszą symfonię?</txt>
+        <ans>8 lat</ans>
+        <prop>5 lat, 12 lat, 15 lat</prop>
+    </q>
+    <q>
+        <txt>Który instrument jest uważany za "króla instrumentów"?</txt>
+        <ans>Fortepian</ans>
+        <prop>Skrzypce, Organy, Harfa</prop>
+    </q>
+    <q>
+        <txt>Jak nazywał się rosyjski kompozytor baletu "Jezioro łabędzie"?</txt>
+        <ans>Piotr Czajkowski</ans>
+        <prop>Igor Strawinski, Sergiusz Prokofiew, Dymitr Szostakowicz</prop>
+    </q>
+    <q>
+        <txt>W jakim kraju narodziła się opera?</txt>
+        <ans>Włochy</ans>
+        <prop>Francja, Niemcy, Austria</prop>
+    </q>
+    <q>
+        <txt>Który kompozytor, będąc całkowicie głuchym, skomponował IX Symfonię?</txt>
+        <ans>Ludwig van Beethoven</ans>
+        <prop>Wolfgang Amadeus Mozart, Johannes Brahms, Franz Schubert</prop>
+    </q>
+    <q>
+        <txt>Jak się nazywa muzyczny zapis składający się z pięciu linii?</txt>
+        <ans>Pięciolinia</ans>
+        <prop>Partytura, Nuty, Metrum</prop>
+    </q>
+    <q>
+        <txt>Który instrument dęty drewniany posiada specyficzny podwójny stroik?</txt>
+        <ans>Fagot</ans>
+        <prop>Klarnet, Flet, Saksofon</prop>
+    </q>
+    <q>
+        <txt>Jak nazywał się austriacki kompozytor znany z walców i operetek?</txt>
+        <ans>Johann Strauss</ans>
+        <prop>Richard Strauss, Franz Schubert, Joseph Haydn</prop>
+    </q>
+    <q>
+        <txt>Który gatunek muzyczny charakteryzuje się naprzemiennym śpiewem chóru i solisty?</txt>
+        <ans>Oratorium</ans>
+        <prop>Opera, Sonata, Msza</prop>
+    </q>
+    <q>
+        <txt>W jakim mieście urodził się Fryderyk Chopin?</txt>
+        <ans>Żelazowa Wola</ans>
+        <prop>Warszawa, Kraków, Poznań</prop>
+    </q>
+    <q>
+        <txt>Jak się nazywa najniższy głos męski w śpiewie?</txt>
+        <ans>Bas</ans>
+        <prop>Tenor, Baryton, Alt</prop>
+    </q>
+    <q>
+        <txt>Który kompozytor skomponował "Symfonię Niedokończoną"?</txt>
+        <ans>Franz Schubert</ans>
+        <prop>Johannes Brahms, Anton Bruckner, Robert Schumann</prop>
+    </q>
+    <q>
+        <txt>Jak się nazywa muzyczny instrument strunowy szypułkowy, poprzedzający współczesną gitarę?</txt>
+        <ans>Lutnia</ans>
+        <prop>Cytra, Harfa, Mandolina</prop>
+    </q>
+    <q>
+        <txt>Który włoski kompozytor jest uważany za ojca opery?</txt>
+        <ans>Claudio Monteverdi</ans>
+        <prop>Giacomo Puccini, Giuseppe Verdi, Gioachino Rossini</prop>
+    </q>
+    <q>
+        <txt>Jak się nazywa muzyczny podział czasu?</txt>
+        <ans>Metrum</ans>
+        <prop>Rytm, Tempo, Harmonia</prop>
+    </q>
+    <q>
+        <txt>Który kompozytor napisał słynne "Cztery pory roku"?</txt>
+        <ans>Antonio Vivaldi</ans>
+        <prop>Georg Friedrich Händel, Johann Sebastian Bach, Arcangelo Corelli</prop>
+    </q>
+    <q>
+        <txt>Jak się nazywa najwyższy głos żeński w śpiewie?</txt>
+        <ans>Sopran</ans>
+        <prop>Alt, Mezzosopran, Tenor</prop>
+    </q>
+    <q>
+        <txt>Który kompozytor skomponował operę "Don Giovanni"?</txt>
+        <ans>Wolfgang Amadeus Mozart</ans>
+        <prop>Giuseppe Verdi, Gioachino Rossini, Georges Bizet</prop>
+    </q>
+</questions>

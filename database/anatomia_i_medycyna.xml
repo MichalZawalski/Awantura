@@ -1,0 +1,107 @@
+<questions>
+    <q>
+        <txt>Ile par żeber posiada przeciętny dorosły człowiek?</txt>
+        <ans>12</ans>
+        <prop>10, 14, 11</prop>
+    </q>
+    <q>
+        <txt>Który narząd w ludzkim ciele pełni funkcję filtra krwi?</txt>
+        <ans>Nerka</ans>
+        <prop>Wątroba, Trzustka, Śledziona</prop>
+    </q>
+    <q>
+        <txt>Kto jest twórcą pierwszego sprawdzonego szczepienia przeciwko ospie?</txt>
+        <ans>Edward Jenner</ans>
+        <prop>Louis Pasteur, Robert Koch, Alexander Fleming</prop>
+    </q>
+    <q>
+        <txt>Ile chromosomów posiada komórka ludzka?</txt>
+        <ans>46</ans>
+        <prop>23, 36, 52</prop>
+    </q>
+    <q>
+        <txt>Jaki jest największy gruczoł w ludzkim ciele?</txt>
+        <ans>Wątroba</ans>
+        <prop>Trzustka, Tarczyca, Nadnercze</prop>
+    </q>
+    <q>
+        <txt>Który składnik krwi odpowiada za transport tlenu?</txt>
+        <ans>Hemoglobina</ans>
+        <prop>Leukocyty, Trombocyty, Erytropoetyna</prop>
+    </q>
+    <q>
+        <txt>Który zmysł jest najwcześniej rozwijającym się zmysłem płodu?</txt>
+        <ans>Dotyk</ans>
+        <prop>Słuch, Węch, Smak</prop>
+    </q>
+    <q>
+        <txt>Która struktura mózgu jest odpowiedzialna za koordynację ruchów?</txt>
+        <ans>Móżdżek</ans>
+        <prop>Hipokamp, Podwzgórze, Płat czołowy</prop>
+    </q>
+    <q>
+        <txt>Jaki pierwiastek jest kluczowy dla prawidłowego funkcjonowania tarczycy?</txt>
+        <ans>Jod</ans>
+        <prop>Żelazo, Magnez, Cynk</prop>
+    </q>
+    <q>
+        <txt>Który rodzaj białych krwinek jest kluczowy w walce z infekcjami wirusowymi?</txt>
+        <ans>Limfocyty</ans>
+        <prop>Neutrofile, Eozynofile, Bazofile</prop>
+    </q>
+    <q>
+        <txt>Ile warstw skóry wyróżniamy u człowieka?</txt>
+        <ans>3</ans>
+        <prop>2, 4, 5</prop>
+    </q>
+    <q>
+        <txt>Który wynalazca skonstruował pierwszy mikroskop umożliwiający obserwację bakterii?</txt>
+        <ans>Antoni van Leeuwenhoek</ans>
+        <prop>Robert Koch, Louis Pasteur, Rudolf Virchow</prop>
+    </q>
+    <q>
+        <txt>Który narząd magazynuje żółć?</txt>
+        <ans>Pęcherzyk żółciowy</ans>
+        <prop>Wątroba, Trzustka, Żołądek</prop>
+    </q>
+    <q>
+        <txt>Ile litrów krwi przepływa przez serce człowieka w ciągu doby?</txt>
+        <ans>7000</ans>
+        <prop>5000, 9000, 6000</prop>
+    </q>
+    <q>
+        <txt>Który z witaminowej grupy B jest kluczowy dla produkcji czerwonych krwinek?</txt>
+        <ans>Witamina B12</ans>
+        <prop>Witamina B6, Witamina B9, Witamina B3</prop>
+    </q>
+    <q>
+        <txt>Który z hormonów jest odpowiedzialny za wzrost i rozwój organizmu?</txt>
+        <ans>Hormon wzrostu</ans>
+        <prop>Testosteron, Estrogen, Kortyzol</prop>
+    </q>
+    <q>
+        <txt>Który narząd jest głównym miejscem trawienia pokarmu?</txt>
+        <ans>Jelito cienkie</ans>
+        <prop>Żołądek, Jelito grube, Dwunastnica</prop>
+    </q>
+    <q>
+        <txt>Ile minut mózg może przetrwać bez tlenu?</txt>
+        <ans>4</ans>
+        <prop>2, 6, 8</prop>
+    </q>
+    <q>
+        <txt>Który pionier medycyny jest twórcą słynnej przysięgi składanej przez lekarzy?</txt>
+        <ans>Hipokrates</ans>
+        <prop>Galen, Arystoteles, Awicenna</prop>
+    </q>
+    <q>
+        <txt>Który narząd zmysłu jest odpowiedzialny za równowagę?</txt>
+        <ans>Ucho wewnętrzne</ans>
+        <prop>Błędnik, Móżdżek, Rdzeń kręgowy</prop>
+    </q>
+    <q>
+        <txt>Ile procent masy ciała stanowi woda u dorosłego człowieka?</txt>
+        <ans>60</ans>
+        <prop>50, 70, 55</prop>
+    </q>
+</questions>

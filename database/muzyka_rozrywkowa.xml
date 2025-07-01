@@ -1,0 +1,116 @@
+<questions>
+    <q>
+        <txt>Kto jest autorem przeboju „Thriller”, który stał się jednym z najlepiej sprzedających się albumów w
+            historii muzyki?
+        </txt>
+        <ans>Michael Jackson</ans>
+        <prop>Prince, Stevie Wonder, Lionel Richie</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się wokalistka, która nagrała utwory „Rolling in the Deep” i „Someone Like You”?</txt>
+        <ans>Adele</ans>
+        <prop>Rihanna, Beyoncé, Taylor Swift</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się brytyjski zespół, który zyskał ogromną popularność dzięki utworowi „Bohemian Rhapsody”?
+        </txt>
+        <ans>Queen</ans>
+        <prop>The Beatles, The Rolling Stones, Pink Floyd</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się gatunek muzyczny, który powstał w latach 70. w Nowym Jorku i cechuje się rapem na tle
+            rytmicznego beatu?
+        </txt>
+        <ans>Hip-hop</ans>
+        <prop>Reggae, Funk, Punk</prop>
+    </q>
+    <q>
+        <txt>W którym mieście odbywa się największy na świecie festiwal muzyki elektronicznej „Tomorrowland”?</txt>
+        <ans>Boom (Belgia)</ans>
+        <prop>Ibiza, Berlin, Amsterdam</prop>
+    </q>
+    <q>
+        <txt>Kto wykonał piosenkę „I Will Always Love You”, która stała się przebojem dzięki filmowi „Bodyguard”?</txt>
+        <ans>Whitney Houston</ans>
+        <prop>Céline Dion, Mariah Carey, Tina Turner</prop>
+    </q>
+    <q>
+        <txt>Jaki instrument jest charakterystyczny dla muzyki reggae?</txt>
+        <ans>Gitara rytmiczna</ans>
+        <prop>Skrzypce, Fortepian, Trąbka</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem słów i muzyki do utworu „Imagine”, który stał się hymnem pokoju?</txt>
+        <ans>John Lennon</ans>
+        <prop>Paul McCartney, Bob Dylan, George Harrison</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się festiwal muzyczny, który odbywał się w latach 1969-1999 i jest symbolem kontrkultury lat
+            60.?
+        </txt>
+        <ans>Woodstock</ans>
+        <prop>Coachella, Glastonbury, Monterey</prop>
+    </q>
+    <q>
+        <txt>Jaki pseudonim nosi wokalista Marshall Bruce Mathers III, znany z takich utworów jak „Lose Yourself” czy
+            „Stan”?
+        </txt>
+        <ans>Eminem</ans>
+        <prop>Dr. Dre, Snoop Dogg, 50 Cent</prop>
+    </q>
+    <q>
+        <txt>Jaki gatunek muzyczny reprezentuje zespół Metallica?</txt>
+        <ans>Heavy metal</ans>
+        <prop>Grunge, Punk, Alternative Rock</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się nagroda przyznawana corocznie za osiągnięcia w przemyśle muzycznym w USA?</txt>
+        <ans>Grammy</ans>
+        <prop>Oscar, MTV Award, Brit Award</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się wokalistka znana z takich przebojów jak „Poker Face” i „Shallow”?</txt>
+        <ans>Lady Gaga</ans>
+        <prop>Katy Perry, Ariana Grande, Billie Eilish</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się instrument klawiszowy, który wyewoluował z organów Hammonda i był popularny w muzyce
+            rockowej lat 60.?
+        </txt>
+        <ans>Mellotron</ans>
+        <prop>Synthesizer, Pianino, Klawikord</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem słynnego utworu „Smells Like Teen Spirit”, który stał się hymnem grunge’u?</txt>
+        <ans>Nirvana</ans>
+        <prop>Pearl Jam, Soundgarden, Alice in Chains</prop>
+    </q>
+    <q>
+        <txt>Kto był pierwszym polskim wykonawcą, który wystąpił w legendarnym programie MTV Unplugged?</txt>
+        <ans>Kayah</ans>
+        <prop>Edyta Górniak, Myslovitz, Brodka</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się słynny zespół popowy, którego członkami byli między innymi Justin Timberlake i JC Chasez?
+        </txt>
+        <ans>’N Sync</ans>
+        <prop>Backstreet Boys, Westlife, Boyzone</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się największy przebój zespołu The Police, w którym słowa refrenu brzmią „Every breath you
+            take”?
+        </txt>
+        <ans>Every Breath You Take</ans>
+        <prop>Message in a Bottle, Roxanne, Don’t Stand So Close to Me</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się brytyjski zespół, który nagrał utwór „Wonderwall”?</txt>
+        <ans>Oasis</ans>
+        <prop>Blur, Radiohead, Coldplay</prop>
+    </q>
+    <q>
+        <txt>Jak nazywa się wokalista zespołu U2?</txt>
+        <ans>Bono</ans>
+        <prop>The Edge, Adam Clayton, Larry Mullen Jr.</prop>
+    </q>
+</questions>

@@ -1,0 +1,102 @@
+<questions>
+    <q>
+        <txt>Który z wielkich greckich filozofów był nauczycielem Alexandra Wielkiego?</txt>
+        <ans>Arystoteles</ans>
+        <prop>Platon, Sokrates, Heraklit</prop>
+    </q>
+    <q>
+        <txt>Kto napisał fundamentalne dzieło chrześcijańskiej teologii "Wyznania"?</txt>
+        <ans>Augustyn z Hippony</ans>
+        <prop>Tomasz z Akwinu, Orygenes, Hieronim</prop>
+    </q>
+    <q>
+        <txt>Jakie jest centralne święto w chrześcijaństwie upamiętniające zmartwychwstanie Jezusa?</txt>
+        <ans>Wielkanoc</ans>
+        <prop>Boże Narodzenie, Zesłanie Ducha Świętego, Boże Ciało</prop>
+    </q>
+    <q>
+        <txt>Który z filozofów sformułował koncepcję "cogito, ergo sum"?</txt>
+        <ans>René Descartes</ans>
+        <prop>Immanuel Kant, Georg Hegel, Jean-Paul Sartre</prop>
+    </q>
+    <q>
+        <txt>Jaką religią jest buddyzm?</txt>
+        <ans>Religiąnieteistyczną</ans>
+        <prop>Monoteistyczną, Politeistyczną, Animistyczną</prop>
+    </q>
+    <q>
+        <txt>Kto był twórcą koncepcji etycznej kategorycznego imperatywu?</txt>
+        <ans>Immanuel Kant</ans>
+        <prop>John Stuart Mill, Arystoteles, Jean-Jacques Rousseau</prop>
+    </q>
+    <q>
+        <txt>Która księga otwiera Nowy Testament?</txt>
+        <ans>Ewangelia według Mateusza</ans>
+        <prop>Ewangelia według Marka, Ewangelia według Łukasza, Ewangelia według Jana</prop>
+    </q>
+    <q>
+        <txt>Który filozof wprowadził pojęcie "nadczłowieka"?</txt>
+        <ans>Fryderyk Nietzsche</ans>
+        <prop>Martin Heidegger, Max Stirner, Søren Kierkegaard</prop>
+    </q>
+    <q>
+        <txt>W jakim roku rozpoczęła się reforma protestancka zapoczątkowana przez Marcina Lutra?</txt>
+        <ans>1517</ans>
+        <prop>1453, 1492, 1588</prop>
+    </q>
+    <q>
+        <txt>Kto napisał fundamentalne dzieło "Suma teologiczna"?</txt>
+        <ans>Tomasz z Akwinu</ans>
+        <prop>Augustyn z Hippony, Orygenes, Jan Duns Szkot</prop>
+    </q>
+    <q>
+        <txt>Który z filozofów sformułował zasadę użyteczności w etyce?</txt>
+        <ans>John Stuart Mill</ans>
+        <prop>David Hume, Jeremy Bentham, Arystoteles</prop>
+    </q>
+    <q>
+        <txt>Jakie jest najstarsze z wielkich wyznań chrześcijańskich?</txt>
+        <ans>Prawosławie</ans>
+        <prop>Katolicyzm, Protestantyzm, Nestorianizm</prop>
+    </q>
+    <q>
+        <txt>Który ze starożytnych greckich filozofów był nauczycielem Platona?</txt>
+        <ans>Sokrates</ans>
+        <prop>Arystoteles, Pitagoras, Heraklit</prop>
+    </q>
+    <q>
+        <txt>Kto jest autorem dzieła "Być i czas"?</txt>
+        <ans>Martin Heidegger</ans>
+        <prop>Jean-Paul Sartre, Edmund Husserl, Maurice Merleau-Ponty</prop>
+    </q>
+    <q>
+        <txt>Jakie wydarzenie w chrześcijaństwie upamiętnia zesłanie Ducha Świętego na apostołów?</txt>
+        <ans>Zesłanie Ducha Świętego</ans>
+        <prop>Wniebowstąpienie, Boże Narodzenie, Wielkanoc</prop>
+    </q>
+    <q>
+        <txt>Który z filozofów sformułował koncepcję "woli mocy"?</txt>
+        <ans>Fryderyk Nietzsche</ans>
+        <prop>Arthur Schopenhauer, Martin Heidegger, Søren Kierkegaard</prop>
+    </q>
+    <q>
+        <txt>Kto jest twórcą egzystencjalizmu chrześcijańskiego?</txt>
+        <ans>Søren Kierkegaard</ans>
+        <prop>Gabriel Marcel, Jean-Paul Sartre, Albert Camus</prop>
+    </q>
+    <q>
+        <txt>W jakim roku Sobór Watykański II zmienił zasady odprawiania mszy świętej?</txt>
+        <ans>1962</ans>
+        <prop>1950, 1945, 1970</prop>
+    </q>
+    <q>
+        <txt>Który z filozofów był zwolennikiem koncepcji "czystej świadomości"?</txt>
+        <ans>Edmund Husserl</ans>
+        <prop>Henri Bergson, Maurice Merleau-Ponty, Jean-Paul Sartre</prop>
+    </q>
+    <q>
+        <txt>Kto jest uważany za pierwszego papieża w historii Kościoła?</txt>
+        <ans>Święty Piotr</ans>
+        <prop>Święty Paweł, Święty Jakub, Święty Andrzej</prop>
+    </q>
+</questions>
